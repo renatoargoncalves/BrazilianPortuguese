@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn Brazilian Portuguese</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9665998162830641/9112669401</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="searchable">searchable</string>
+    <string name="please_give_5_stars">Would you rate us with 5 stars?</string>
+    <string name="rate_this_app">Rate this app!</string>
+    <string name="recomend_us_on_google">Would you recommend us on Google?</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="please_rate_5_stars">Scroll down to rate!</string>
+    <string name="brazilian_portuguese">Brazilian Portuguese</string>
+</resources>

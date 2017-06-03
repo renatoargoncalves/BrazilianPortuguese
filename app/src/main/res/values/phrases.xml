@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="phrases">
+        <item>basics#Yes.#Sim.#HERE</item>
+        <item>basics#No.#Não.#HERE</item>
+        <item>basics#Hello.#Olá.#HERE</item>
+        <item>basics#Hi.#Oi.#HERE</item>
+        <item>basics#How are you?#Como vai?#HERE</item>
+        <item>basics#I am fine, thanks!#Eu estou bem, obrigado!#HERE</item>
+        <item>basics#Nice to meet you!#Prazer em conhecê-lo!#HERE</item>
+        <item>basics#Thank you!#Obrigado!#HERE</item>
+        <item>basics#You are welcome.#De nada.#HERE</item>
+        <item>basics#Goodbye!#Adeus!#HERE</item>
+        <item>basics#See you later!#Até logo!#HERE</item>
+        <item>basics#Excuse me.#Com licença.#HERE</item>
+        <item>basics#Please.#Por favor.#HERE</item>
+        <item>basics#Good morning!#Bom dia!#HERE</item>
+        <item>basics#Good afternoon!#Boa tarde!#HERE</item>
+        <item>basics#Good evening!#Boa noite!#HERE</item>
+        <item>basics#I am sorry.#Me desculpe.#HERE</item>
+        <item>basics#My name is Rick.#Meu nome é Rick.#HERE</item>
+        <item>basics#What is your name?#Qual é o seu nome?#HERE</item>
+        <item>basics#I don\'t speak well.#Eu não falo bem.#HERE</item>
+        <item>basics#Who are you?.#Quem é você?.#HERE</item>
+        <item>basics#I am with him.#Estou com ele.#HERE</item>
+        <item>basics#I am with her.#Estou com ela.#HERE</item>
+        <item>basics#I need to go to the restroom.#Eu preciso ir ao banheiro.#HERE</item>
+        <item>basics#Where is the....#Onde fica o....#HERE</item>
+        <item>basics#I need help!#Preciso de ajuda!#HERE</item>
+        <item>basics#I am lost!#Estou perdido!#HERE</item>
+        <item>basics#I need a Portuguese interpreter!#Eu preciso de um intérprete de Português!#HERE</item>
+        <item>basics#Don\'t worry.#Não se preocupe.#HERE</item>
+        <item>basics#How much is this?#Quanto custa isso?#HERE</item>
+        <item>basics#What time is it?#Que horas são?#HERE</item>
+        <item>basics#I do not understand.#Eu não entendo.#HERE</item>
+        <item>basics#Who?#Quem?#HERE</item>
+        <item>basics#Why?#Porque?#HERE</item>
+        <item>basics#I don\'t want it.#Eu não quero isso.#HERE</item>
+        <item>basics#Be careful!#Seja cuidadoso!#HERE</item>
+
+
+
+
+        <item>airport#Departure lounge.#Sala de embarque.#HERE</item>
+        <item>airport#Gate.#Portão.#HERE</item>
+        <item>airport#This is terminal two.#Este é o terminal dois.#HERE</item>
+        <item>airport#Where is the information desk?#Onde fica o balcão de informações?#HERE</item>
+        <item>airport#Where are the restrooms?#Onde ficam os banheiros?#HERE</item>
+        <item>airport#Food court.#Praça de alimentação.#HERE</item>
+        <item>airport#Are there stores in the airport?#Tem lojas no aeroporto?#HERE</item>
+        <item>airport#Where is the American Airlines ticket office?#Onde é o guichê da American Airlines?#HERE</item>
+        <item>airport#Is this the departure area?#Essa é a área de embarque?#HERE</item>
+        <item>airport#Where is the arrivals area?#Onde é a área de desembarque?#HERE</item>
+        <item>airport#How long is the delay?#Quanto tempo de atraso?#HERE</item>
+        <item>airport#Where are the luggage carousels?#Onde estão os carrinhos de bagagem?#HERE</item>
+        <item>airport#Which terminal is this?#Que terminal é esse?#HERE</item>
+        <item>airport#How can I get in terminal 1?#Como eu posso chegar no terminal 1?#HERE</item>
+
+        <item>airport#Your passport, please.#Seu passaporte, por favor.#HERE</item>
+        <item>airport#Window seat or aisle seat?#Assento na janela ou no corredor?#HERE</item>
+        <item>airport#I prefer window.#Eu prefiro janela.#HERE</item>
+        <item>airport#Please put your bag on the scale.#Por favor, coloque a sua mala na balança.#HERE</item>
+        <item>airport#How many bags are you checking?#Quantas malas você vai despachar?#HERE</item>
+        <item>airport#I have 3 bags.#Eu tenho 3 malas.#HERE</item>
+        <item>airport#Do you have any hand luggage?#Você tem bagagem de mão?#HERE</item>
+        <item>airport#Yes, I have this backpack.#Sim, eu tenho esta mochila.#HERE</item>
+        <item>airport#Please put a “fragile” sticker on this bag.#Por favor, coloque um adesivo “frágil” nesta mala.#HERE</item>
+        <item>airport#You have excess baggage.#Você tem excesso de bagagem.#HERE</item>
+        <item>airport#How much do I have to pay for the excess baggage?#Quanto tenho que pagar pela bagagem em excesso?#HERE</item>
+        <item>airport#The airport tax is US$ 40.#A taxa de embarque é US$ 40.#HERE</item>
+        <item>airport#Please, I need to change my reservation.#Por favor, preciso mudar a minha reserva.#HERE</item>
+        <item>airport#I can put you on standby.#Eu posso colocar você na lista de espera.#HERE</item>
+        <item>airport#The flight is delayed.#O vôo está atrasado.#HERE</item>
+        <item>airport#The flight is on time.#O vôo está no horário.#HERE</item>
+        <item>airport#The plane has already landed.#O avião já aterrissou.#HERE</item>
+        <item>airport#Your flight has been cancelled.#Seu voo foi cancelado.#HERE</item>
+        <item>airport#The flight time is 11 hours.#O tempo de voo é de 11 horas.#HERE</item>
+        <item>airport#Where is the gate 4?#Onde é o portão 4?#HERE</item>
+        <item>airport#Proceed to gate.#Embarque próximo.#HERE</item>
+        <item>airport#Now boarding.#Embarque imediato.#HERE</item>
+        <item>airport#How many bags can I check in?#Quantas malas posso despachar?#HERE</item>
+        <item>airport#How long is the flight?#Quanto tempo de vôo?#HERE</item>
+        <item>airport#When does it arrive?#Quando ele chega?#HERE</item>
+        <item>airport#When will it depart?#Quando ele partirá?#HERE</item>
+        <item>airport#I want to change my flight.#Quero trocar meu vôo.#HERE</item>
+        <item>airport#Is there a problem with the aircraft?#Tem algum problema com o avião?#HERE</item>
+
+        <item>airport#Please fill in this form.#Por favor, preencha este formulário.#HERE</item>
+        <item>airport#Please wait behind the yellow line.#Por favor, aguarde atrás da linha amarela.#HERE</item>
+        <item>airport#Your ticket and passport, please.#Sua passagem e passaporte, por favor.#HERE</item>
+        <item>airport#Here is my passport.#Aqui está meu passaporte.#HERE</item>
+        <item>airport#I arrived in the flight&#8230;#Eu cheguei no vôo&#8230;#HERE</item>
+        <item>airport#Where are you from?#De onde você é?.#HERE</item>
+        <item>airport#I am Brazilian.#Sou Brasileiro.#HERE</item>
+        <item>airport#Why are you here?#Por que você está aqui?#HERE</item>
+        <item>airport#I am going to visit friends.#Vou visitar amigos.#HERE</item>
+        <item>airport#What’s the purpose of your visit?#Qual é o motivo de sua viagem?#HERE</item>
+        <item>airport#I am travelling for tourism.#Estou viajando a turismo.#HERE</item>
+        <item>airport#Business or pleasure?#Negócios ou lazer?#HERE</item>
+        <item>airport#Business travel.#Viagem de negócios.#HERE</item>
+        <item>airport#How long do you plan to stay in the country?#Quanto tempo você pensando em ficar no país?#HERE</item>
+        <item>airport#How long are you going to stay?#Quanto tempo você vai ficar?#HERE</item>
+        <item>airport#I will stay ten days.#Eu vou ficar dez dias.#HERE</item>
+        <item>airport#I am at vacation.#Estou de férias.#HERE</item>
+        <item>airport#Do you have a hotel reservation?#Você tem reserva de hotel?#HERE</item>
+        <item>airport#Can I see your hotel reservation?#Posso ver sua reserva de hotel?#HERE</item>
+        <item>airport#This is my hotel reservation.#Esta é minha reserva de hotel.#HERE</item>
+        <item>airport#Are you travelling alone?#Você está viajando sozinho?#HERE</item>
+        <item>airport#I am travelling with my girlfriend.#Estou viajando com minha namorada.#HERE</item>
+        <item>airport#Do you have relatives or friends living in the country?#Você tem parentes ou amigos morando no país?#HERE</item>
+        <item>airport#Do you have anything to declare?#Você tem algo a declarar?#HERE</item>
+        <item>airport#Put all your bags here, please.#Coloque todas as suas malas aqui, por favor.#HERE</item>
+        <item>airport#Open your bags, please.#bra suas malas, por favor.#HERE</item>
+        <item>airport#What’s in here?#O que tem aqui dentro?#HERE</item>
+        <item>airport#You have to pay duty on this product.#Você tem que pagar imposto sobre esse produto.#HERE</item>
+        <item>airport#How much money are you carring?#Quanto dinheiro você está carregando?#HERE</item>
+        <item>airport#I have two hundred dolars in cash.#Tenho duzentos dólares em dinheiro.#HERE</item>
+        <item>airport#I have lost my connection.#Eu perdi minha conexão.#HERE</item>
+        <item>airport#My luggage is missing.#Minha bagagem sumiu.#HERE</item>
+        <item>airport#Is the flight 724 delayed?#O voô 724 está atrasado?#HERE</item>
+        <item>airport#Where can I exchange money?#Onde posso trocar dinheiro?#HERE</item>
+        <item>airport#Where is the exit to the subway?#Onde é a saída para o metrô?#HERE</item>
+        <item>airport#Where are the shuttles?#Onde estão os shuttles?#HERE</item>
+        <item>airport#Is there somewhere here that sells padlocks?#Tem algum lugar aqui que vende cadeados?#HERE</item>
+        <item>airport#I need to buy adhesive tape.#Preciso comprar fita adesiva.#HERE</item>
+        <item>airport#How can I get to the subway (train)?#Como faço para pegar o metrô?#HERE</item>
+        <item>airport#Where do I take the bus to downtown?#Onde pego o ônibus para o centro?#HERE</item>
+        <item>airport#How long does it take to get to the airport?#Quanto tempo leva até o aeroporto?#HERE</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <item>car#Do you have a car reservation?#Você tem uma reserva de carro?#HERE</item>
+        <item>car#Yes, here it is?#Sim, aqui está.#HERE</item>
+        <item>car#What kind of car do you need?#Que tipo de carro você precisa?#HERE</item>
+        <item>car#I want a big car.#Eu quero um carro grande.#HERE</item>
+        <item>car#I want an economic car.#Eu quero um carro econômico.#HERE</item>
+        <item>car#When do you plan to return the car?#Quando você pretende devolver o carro?#HERE</item>
+        <item>car#I will return it next Friday afternoon.#Eu vou devolvê-lo na próxima Sexta-feira a tarde.#HERE</item>
+        <item>car#How much will it cost?#Quanto vai custar?#HERE</item>
+        <item>car#Is it mileage free?#Tem quilometragem livre?#HERE</item>
+        <item>car#How much will I have to deposit?#Quanto terei que depositar?#HERE</item>
+        <item>car#I want an automatic car.#Eu quero um carro automático.#HERE</item>
+        <item>car#I prefer manual cars.#Prefiro carro manual.#HERE</item>
+        <item>car#Where can I rent a car?#Onde posso alugar um carro?#HERE</item>
+        <item>car#I\'d like to rent a car.#Eu queria alugar um carro.#HERE</item>
+        <item>car#Do I need to return it with gas tank full?#Preciso devolver com tanque cheio?#HERE</item>
+        <item>car#Where do I pick up the car?#Onde pego o carro?#HERE</item>
+        <item>car#Does it have insurance?#Tem seguro?#HERE</item>
+        <item>car#How much is the daily rate?#Quanto é a diária?#HERE</item>
+        <item>car#Does it have discount for a week?#Por uma semana tem desconto?#HERE</item>
+        <item>car#How much is the insurance?#Quanto é o seguro?#HERE</item>
+        <item>car#Is the GPS included?#O GPS está incluido?#HERE</item>
+        <item>car#Do I need to stop on the tolls?#Tenho que parar nos pedágios?#HERE</item>
+        <item>car#Where are the car papers?#Onde estão os documentos do carro?#HERE</item>
+        <item>car#Which phone number should I call in case of an emergency?#Qual número de telefone devo chamar em caso de emergência?#HERE</item>
+        <item>car#Can I return it in another city?#Posso devolvê-lo em outra cidade?#HERE</item>
+        <item>car#What do I need to show up if the police stops me?#O que tenho que mostrar se a policia me parar?#HERE</item>
+        <item>car#Here is my driver licence.#Aqui está minha habilitação.#HERE</item>
+        <item>car#I need a child seat.#Preciso de uma cadeira de criança.#HERE</item>
+
+
+
+
+
+
+
+
+
+
+
+        <item>directions#Right.#Direita.#HERE</item>
+        <item>directions#Left.#Esquerda.#HERE</item>
+        <item>directions#In front.#Em frente.#HERE</item>
+        <item>directions#Behind.#Atrás.#HERE</item>
+        <item>directions#Above.#Acima.#HERE</item>
+        <item>directions#Below.#Abaixo.#HERE</item>
+        <item>directions#North.#Norte.#HERE</item>
+        <item>directions#South.#Sul.#HERE</item>
+        <item>directions#East.#Leste.#HERE</item>
+        <item>directions#West.#Oeste.#HERE</item>
+        <item>directions#Go straight.#Siga em frente.#HERE</item>
+        <item>directions#Please, how can I get to the bus station?#Por favor, como faço para ir ao ponto de onibus?#HERE</item>
+        <item>directions#I am looking for this address&#8230;#Estou procurando por este endereço&#8230;#HERE</item>
+        <item>directions#Should I turn right?#Devo virar a direita?#HERE</item>
+        <item>directions#Is it far?#É longe?#HERE</item>
+        <item>directions#Turn right at the crossroads.#Vire a direita no cruzamento.#HERE</item>
+        <item>directions#Take the first on the right.#Pegue a primeira a direita.#HERE</item>
+        <item>directions#Is it near here?#É perto daqui?#HERE</item>
+        <item>directions#Where?#Onde?#HERE</item>
+        <item>directions#Close to the shopping mall?#Perto do shopping?#HERE</item>
+        <item>directions#Go strait ahead.#Siga em frente.#HERE</item>
+        <item>directions#How do I get there?#Como chego até lá?#HERE</item>
+        <item>directions#Is there a bus to get there?#Tem algum ônibus para ir para lá?#HERE</item>
+        <item>directions#Is it possible to go there by walk?#É possível ir para lá andando?#HERE</item>
+        <item>directions#How long by car?#Quanto tempo de carro?#HERE</item>
+        <item>directions#Is there a subway station near there?#Tem estação de metrô perto de lá?#HERE</item>
+        <item>directions#In which station should I drop?#Eu devo descer em qual estação?#HERE</item>
+        <item>directions#How much to go there by taxi?#Quanto custa ir para lá de taxi?#HERE</item>
+        <item>directions#Is this the road to São Paulo?#Essa é a estrada para São Paulo?#HERE</item>
+        <item>directions#Go this way.#Vá nessa direção.#HERE</item>
+        <item>directions#Is the way to there safe?#O caminho até lá é seguro?#HERE</item>
+        <item>directions#Please, which direction is Copacabana?#Por favor, Copacabana está em qual direção?#HERE</item>
+        <item>directions#It is down there.#Descendo por aqui.#HERE</item>
+        <item>directions#Is there any other way?#Há algum outro caminho?#HERE</item>
+        <item>directions#I need a guide.#Eu preciso de um guia.#HERE</item>
+        <item>directions#Where is&#8230;?#Onde fica&#8230;?#HERE</item>
+        <item>directions#Where is the closest supermarket?#Onde fica o supermercado mais próximo?#HERE</item>
+
+        <item>hotel#Hello, I have a reservation.#Olá, eu tenho uma reserva.#HERE</item>
+        <item>hotel#The reservation is in the name of who?#A reserva está em nome de quem?#HERE</item>
+        <item>hotel#The reservation is in my name.#A reserva está em meu nome.#HERE</item>
+        <item>hotel#Do you have a room available for today?#Você tem um quarto disponível para hoje?#HERE</item>
+        <item>hotel#Sorry, there are no rooms available.#Desculpe, não temos quartos disponíveis.#HERE</item>
+        <item>hotel#Yes, there are rooms available.#Sim, há quartos disponíveis.#HERE</item>
+        <item>hotel#I want a double room.#Quero um quarto duplo.#HERE</item>
+        <item>hotel#Triple room.#Quarto triplo.#HERE</item>
+        <item>hotel#Room with a couple bed and two single beds please.#Quarto com cama de casal e duas camas de solteiro por favor.#HERE</item>
+        <item>hotel#How much is the daily rate?#Quanto é a diária?#HERE</item>
+        <item>hotel#Is the breakfast included?#O café da manhã está incluido?#HERE</item>
+        <item>hotel#I will stay four days.#Vou ficar quatro dias.#HERE</item>
+        <item>hotel#Is there Internet in the room?#Tem Internet no quarto?#HERE</item>
+        <item>hotel#Please, what is the wifi password?#Por favor, qual é a senha do wifi?#HERE</item>
+        <item>hotel#Is there room service?#Tem serviço de quarto?#HERE</item>
+        <item>hotel#I need towels.#Preciso de toalhas.#HERE</item>
+        <item>hotel#Could you change my bed linen?#Poderia trocar a roupa de cama?#HERE</item>
+        <item>hotel#Blanket.#Cobertor.#HERE</item>
+        <item>hotel#Pillow.#Travesseiro.#HERE</item>
+        <item>hotel#Bed sheet.#Lençol.#HERE</item>
+        <item>hotel#Is there a safe in the room?#Tem cofre no quarto?#HERE</item>
+        <item>hotel#What time is the check-out?#A que horas é a saída?#HERE</item>
+        <item>hotel#What time can I check-in?#A que horas posso entrar?#HERE</item>
+        <item>hotel#I want to change rooms.#Quero trocar de quarto.#HERE</item>
+        <item>hotel#Are there available rooms for tonight.#Há quartos livres para esta noite?#HERE</item>
+        <item>hotel#How much is the standard room?#Quando é o quarto simples?#HERE</item>
+        <item>hotel#How do I make a phone call?#Como faço uma chamada telefônica?#HERE</item>
+        <item>hotel#Is there adjoining rooms?#Tem quartos interligados?#HERE</item>
+        <item>hotel#Could you help me with the baggage?#Poderia me ajudar com a bagagem?#HERE</item>
+        <item>shopping#How much?#Quanto custa?#HERE</item>
+        <item>shopping#How much is this?#Quanto custa isso?#HERE</item>
+        <item>shopping#It costs 50 Dollars.#Custa 50 Dolares.#HERE</item>
+        <item>shopping#Could you give me a discount?#Poderia me dar desconto?#HERE</item>
+        <item>shopping#Yes, it has ten percent off.#Sim, tem dez por cento de desconto.#HERE</item>
+        <item>shopping#Sorry, no discount for this item.#Desculpe, não há desconto para este item..#HERE</item>
+        <item>shopping#Do you accept credit card?#Você aceita cartão de crédito?#HERE</item>
+        <item>shopping#Only cash.#Só dinheiro.#HERE</item>
+        <item>shopping#Is money accepted?#Aceita dinheiro?#HERE</item>
+        <item>shopping#Only credit card.#Somente cartão de crédito.#HERE</item>
+        <item>shopping#I would like to see other styles.#Eu gostaria de ver outros modelos.#HERE</item>
+        <item>shopping#All styles we have are here.#Todos os modelos que temos estão aqui.#HERE</item>
+        <item>shopping#What times are you opened?#Em que horários vocês estão abertos?#HERE</item>
+        <item>shopping#We are open from 8 in the morning until 10 at night.#Estamos abertos das 8 da manhã até as 10 da noite.#HERE</item>
+        <item>shopping#Will you be opened tomorrow?#Você abrirá amanhã?#HERE</item>
+        <item>shopping#I want a bigger one.#Quero um maior.#HERE</item>
+        <item>shopping#I need a smaller one.#Preciso de um menor.#HERE</item>
+        <item>shopping#Do you have it in other colors?#Tem em outras cores?#HERE</item>
+        <item>shopping#I want something cheaper.#Quero alguma coisa mais barata.#HERE</item>
+        <item>shopping#I need to change this.#Preciso trocar isso.#HERE</item>
+        <item>shopping#I want to return this.#Quero devolver.#HERE</item>
+        <item>shopping#What time do you close?#Que horas vocês fecham?#HERE</item>
+        <item>shopping#What time do you open?#Que horas vocês abrem?#HERE</item>
+        <item>shopping#Do you open on Saturdays?#Abrem aos Sábados?#HERE</item>
+        <item>shopping#Are there other stores?#Tem outras lojas?#HERE</item>
+        <item>shopping#Does it have warranty?#Tem garantia?#HERE</item>
+        <item>shopping#Could you please give me a receipt?#Poderia me dar um recibo por favor?#HERE</item>
+        <item>shopping#Could you give me a bag please?#Você poderia me dar uma sacola?#HERE</item>
+        <item>shopping#It does not fit.#Não serve.#HERE</item>
+        <item>shopping#It does not work.#Não funciona.#HERE</item>
+        <item>shopping#Could you please wrap it for gift?#Poderia por favor embrulhar para presente?#HERE</item>
+        <item>restaurant#Fork.#Garfo.#HERE</item>
+        <item>restaurant#Spoon.#Colher.#HERE</item>
+        <item>restaurant#Napkin.#Guardanapo.#HERE</item>
+        <item>restaurant#Salt.#Sal.#HERE</item>
+        <item>restaurant#Sugar.#Açucar.#HERE</item>
+        <item>restaurant#Pepper.#Pimenta.#HERE</item>
+        <item>restaurant#Chilli.#Pimenta.#HERE</item>
+        <item>restaurant#Garlic.#Alho.#HERE</item>
+        <item>restaurant#Breakfast.#Café da manhã.#HERE</item>
+        <item>restaurant#Bread.#Pão.#HERE</item>
+        <item>restaurant#Butter.#Manteiga.#HERE</item>
+        <item>restaurant#Ham.#Presunto.#HERE</item>
+        <item>restaurant#Cheese.#Queijo.#HERE</item>
+        <item>restaurant#I love bacon!#Eu amo bacon!#HERE</item>
+        <item>restaurant#I hate omelet!#Eu odeio omelete!#HERE</item>
+        <item>restaurant#Scrambled eggs.#Ovos mexidos.#HERE</item>
+        <item>restaurant#Hot chocolate.#Chocolate quente.#HERE</item>
+        <item>restaurant#Milk.#Leite.#HERE</item>
+        <item>restaurant#Cofee.#Café.#HERE</item>
+        <item>restaurant#Juice.#Suco.#HERE</item>
+        <item>restaurant#Lunch time.#Hora do almoço.#HERE</item>
+        <item>restaurant#Dinner.#Jantar.#HERE</item>
+        <item>restaurant#Italian restaurant.#Restaurante Italiano.#HERE</item>
+        <item>restaurant#Thay restaurant.#Restaurante Tailandês.#HERE</item>
+        <item>restaurant#Table for four please.#Mesa para quatro por favor.#HERE</item>
+        <item>restaurant#The menu please.#O cardápio por favor.#HERE</item>
+        <item>restaurant#I would like to have a drink while a take a look at the menu.#Eu gostaria de beber algo enquanto vejo o cardápio.#HERE</item>
+        <item>restaurant#A bottle of wine.#Uma garrafa de vinho.#HERE</item>
+        <item>restaurant#Could you bring another glass?#Poderia trazer outro copo?#HERE</item>
+        <item>restaurant#Please, another plate.#Por favor, outro prato.#HERE</item>
+        <item>restaurant#Waiter!#Garçom!#HERE</item>
+        <item>restaurant#Does this dish serve two people?#Este prato serve duas pessoas?#HERE</item>
+        <item>restaurant#I will take the&#8230;#HERE</item>
+        <item>restaurant#Chicken.#Frango.#HERE</item>
+        <item>restaurant#Fried chicken.#Frango frito.#HERE</item>
+        <item>restaurant#Beef.#Carne bovina.#HERE</item>
+        <item>restaurant#Steak.#Bife.#HERE</item>
+        <item>restaurant#Meatballs.#Almôndegas.#HERE</item>
+        <item>restaurant#Roastbeef.#Rosbife.#HERE</item>
+        <item>restaurant#Ribs.#Costelas.#HERE</item>
+        <item>restaurant#Roasted.#Assada.#HERE</item>
+        <item>restaurant#Boneless.#Sem ossos.#HERE</item>
+        <item>restaurant#Beef steak.#Bife.#HERE</item>
+        <item>restaurant#Grilled.#Grelhado.#HERE</item>
+        <item>restaurant#Pork.#Carne de porco.#HERE</item>
+        <item>restaurant#Pork ribs.#Costeletas de porco.#HERE</item>
+        <item>restaurant#Pork chops.#Costelinha de porco.#HERE</item>
+        <item>restaurant#Pork chops.#Costelinhas de porco.#HERE</item>
+        <item>restaurant#Pork loin.#Lombinho de porco.#HERE</item>
+        <item>restaurant#Pork sausage.#Linguiça de porco.#HERE</item>
+        <item>restaurant#Chop.#Costela.#HERE</item>
+        <item>restaurant#Fish.#Peixe.#HERE</item>
+        <item>restaurant#Trout.#Truta.#HERE</item>
+        <item>restaurant#Tuna.#Atum.#HERE</item>
+        <item>restaurant#Swordfish.#Peixe-espada.#HERE</item>
+        <item>restaurant#Salmon.#Salmão.#HERE</item>
+        <item>restaurant#Sardines.#Sardinhas.#HERE</item>
+        <item>restaurant#Scallop.#Vieira.#HERE</item>
+        <item>restaurant#Shark.#Tubarão.#HERE</item>
+        <item>restaurant#Plaice.#Linguado.#HERE</item>
+        <item>restaurant#Mackerel.#Cavala.#HERE</item>
+        <item>restaurant#Eel.#Enguia.#HERE</item>
+        <item>restaurant#Hake.#Merlúcio.#HERE</item>
+        <item>restaurant#Cockles.#Almêijoa.#HERE</item>
+        <item>restaurant#Sole.#Linguado.#HERE</item>
+        <item>restaurant#Cod.#Bacalhau.#HERE</item>
+        <item>restaurant#Seefood.#Frutos do mar.#HERE</item>
+        <item>restaurant#Clam.#Molusco.#HERE</item>
+        <item>restaurant#Crab.#Caranguejo.#HERE</item>
+        <item>restaurant#Fried shrimps.#Camarões fritos.#HERE</item>
+        <item>restaurant#Lobster.#Langosta.#HERE</item>
+        <item>restaurant#Mussel.#Mexilhão.#HERE</item>
+        <item>restaurant#Octopus.#Polvo.#HERE</item>
+        <item>restaurant#Oyster.#Ostra.#HERE</item>
+        <item>restaurant#Pollack.#Pescada polaca.#HERE</item>
+        <item>restaurant#Prawns.#Pitus.#HERE</item>
+        <item>restaurant#Shellfish.#Mariscos.#HERE</item>
+        <item>restaurant#Shrimp.#Camarão.#HERE</item>
+        <item>restaurant#Snail.#Caracol.#HERE</item>
+        <item>restaurant#Spider crab.#Aranha do mar.#HERE</item>
+        <item>restaurant#Squid.#Lula.#HERE</item>
+        <item>restaurant#Rice.#Arroz.#HERE</item>
+        <item>restaurant#Beans.#Feijão.#HERE</item>
+        <item>restaurant#Lamb.#Cordeiro.#HERE</item>
+        <item>restaurant#Liver.#Fígado.#HERE</item>
+        <item>restaurant#Please, I would like the meat well done!#Por favor, eu gostaria da carne bem passada!#HERE</item>
+        <item>restaurant#Rare.#Mal passada.#HERE</item>
+        <item>restaurant#Medium rare.#Ao ponto.#HERE</item>
+        <item>restaurant#Pizza.#Pizza.#HERE</item>
+        <item>restaurant#Pasta.#Massas.#HERE</item>
+        <item>restaurant#Canneloni.#Canelones.#HERE</item>
+        <item>restaurant#Gnocchi.#Nhoquis.#HERE</item>
+        <item>restaurant#Macaroni.#Macarrão.#HERE</item>
+        <item>restaurant#Lasagne.#Lasanha.#HERE</item>
+        <item>restaurant#Ravioli.#Ravioles.#HERE</item>
+        <item>restaurant#Spaghetti.#Espaguete.#HERE</item>
+        <item>restaurant#Noodles.#Talharim.#HERE</item>
+        <item>restaurant#Sauce.#Molho.#HERE</item>
+        <item>restaurant#Tomato sauce.#Molho de tomate.#HERE</item>
+        <item>restaurant#French potatoes.#Batatas fritas.#HERE</item>
+        <item>restaurant#French fries.#Batatas fritas.#HERE</item>
+        <item>restaurant#Baked potatoes.#Batata assada.#HERE</item>
+        <item>restaurant#Mashed potatoes.#Purê de batatas.#HERE</item>
+        <item>restaurant#Potato chips.#Batata chips.#HERE</item>
+        <item>restaurant#Onion.#Cebola.#HERE</item>
+        <item>restaurant#Corn.#Milho.#HERE</item>
+        <item>restaurant#Blood sausage.#Morcela, chouriço.#HERE</item>
+        <item>restaurant#Brains.#Miolos.#HERE</item>
+        <item>restaurant#I want an orange juice.#Quero um suco de laranja.#HERE</item>
+        <item>restaurant#I want to drink&#8230;#Eu quero beber&#8230;#HERE</item>
+        <item>restaurant#Soda.#Refrigerante.#HERE</item>
+        <item>restaurant#Water.#Água.#HERE</item>
+        <item>restaurant#Beer.#Cerveja.#HERE</item>
+        <item>restaurant#Tea.#Chá.#HERE</item>
+        <item>restaurant#With ice.#Com gelo.#HERE</item>
+        <item>restaurant#Dessert.#Sobremesa.#HERE</item>
+        <item>restaurant#No sugar.#Sem açucar.#HERE</item>
+        <item>restaurant#Hamburger.#Hamburguer.#HERE</item>
+        <item>restaurant#Cheeseburger.#Cheeseburger.#HERE</item>
+        <item>restaurant#Hot dog.#Cachorro quente.#HERE</item>
+        <item>restaurant#Mayonnaise.#Maionese.#HERE</item>
+        <item>restaurant#Mustard.#Mostarda.#HERE</item>
+        <item>restaurant#Milkshake.#Batida de leite com sorvete.#HERE</item>
+        <item>restaurant#Salad.#Salada.#HERE</item>
+        <item>restaurant#Soup.#Sopa.#HERE</item>
+        <item>restaurant#Stew.#Guisado.#HERE</item>
+        <item>restaurant#Turkey.#Pavão.#HERE</item>
+        <item>restaurant#Veal.#Carne de vitela.#HERE</item>
+        <item>restaurant#Vegetables.#Verduras.#HERE</item>
+        <item>restaurant#Apple juice.#Suco de maçã.#HERE</item>
+        <item>restaurant#Brown beer.#Cerveja preta.#HERE</item>
+        <item>restaurant#Can of coke.#Lata de coca cola.#HERE</item>
+        <item>restaurant#Champagne.#Champanha.#HERE</item>
+        <item>restaurant#Cider.#Cidra.#HERE</item>
+        <item>restaurant#Gin.#Gim.#HERE</item>
+        <item>restaurant#Lemonade.#Limonada.#HERE</item>
+        <item>restaurant#Light soda.#Refrigerante dietético.#HERE</item>
+        <item>restaurant#Liqueur.#Licor.#HERE</item>
+        <item>restaurant#Orange juice.#Suco de laranja.#HERE</item>
+        <item>restaurant#Pineapple juice.#Suco de abacaxi.#HERE</item>
+        <item>restaurant#Red wine.#Vinho tinto.#HERE</item>
+        <item>restaurant#Rum.#Rum.#HERE</item>
+        <item>restaurant#Soda.#Refrigerante.#HERE</item>
+        <item>restaurant#Soft drink.#Refrigerante.#HERE</item>
+        <item>restaurant#Sparkling water.#Água mineral com gás.#HERE</item>
+        <item>restaurant#Still water.#Água mineral sem gás.#HERE</item>
+        <item>restaurant#Tomato juice.#Suco de tomate.#HERE</item>
+        <item>restaurant#Vodka.#Vodca.#HERE</item>
+        <item>restaurant#Whisky.#Uísque.#HERE</item>
+        <item>restaurant#White wine.#Vinho branco.#HERE</item>
+        <item>restaurant#Wine.#Vinho.#HERE</item>
+        <item>restaurant#Aniseed.#Semente de anis.#HERE</item>
+        <item>restaurant#Basil.#Manjericão.#HERE</item>
+        <item>restaurant#Bayleaf.#Louro.#HERE</item>
+        <item>restaurant#Brine.#Salmoura.#HERE</item>
+        <item>restaurant#Capers.#Alcaparras.#HERE</item>
+        <item>restaurant#Celery.#Aipo.#HERE</item>
+        <item>restaurant#Chives.#Cebolinha.#HERE</item>
+        <item>restaurant#Cinnamon.#Canela.#HERE</item>
+        <item>restaurant#Clove.#Cravo da índia.#HERE</item>
+        <item>restaurant#Coriander.#Coentro.#HERE</item>
+        <item>restaurant#Cumin.#Cominho.#HERE</item>
+        <item>restaurant#Curry.#Caril.#HERE</item>
+        <item>restaurant#Dill.#Endro.#HERE</item>
+        <item>restaurant#Dressing.#Tempero.#HERE</item>
+        <item>restaurant#Fennel.#Erva-doce.#HERE</item>
+        <item>restaurant#Ginger.#Gengibre.#HERE</item>
+        <item>restaurant#Gravy.#Caldo de carne.#HERE</item>
+        <item>restaurant#Herbs.#Ervas aromáticas.#HERE</item>
+        <item>restaurant#Ketchup.#Ketchup.#HERE</item>
+        <item>restaurant#Mint.#Menta.#HERE</item>
+        <item>restaurant#Nutmeg.#Noz-moscada.#HERE</item>
+        <item>restaurant#Oregano.#Orégano.#HERE</item>
+        <item>restaurant#Paprika.#Pimentão-doce.#HERE</item>
+        <item>restaurant#Parsley.#Salsa.#HERE</item>
+        <item>restaurant#Pepper corn.#Grão de pimenta.#HERE</item>
+        <item>restaurant#Pickled onions.#Cebolinha em conserva.#HERE</item>
+        <item>restaurant#Rhubarb.#Ruibarbo.#HERE</item>
+        <item>restaurant#Rosemary.#Alecrim.#HERE</item>
+        <item>restaurant#Saffron.#Açafrão.#HERE</item>
+        <item>restaurant#Sage.#Salva.#HERE</item>
+        <item>restaurant#Salad dressing.#Tempero.#HERE</item>
+        <item>restaurant#Sesame.#Sésamo, gergelim.#HERE</item>
+        <item>restaurant#Sorrel.#Azedeira.#HERE</item>
+        <item>restaurant#Sugar.#Açúcar.#HERE</item>
+        <item>restaurant#Syrup.#Xarope.#HERE</item>
+        <item>restaurant#Tarragon.#Estragão.#HERE</item>
+        <item>restaurant#Thyme.#Tomilho.#HERE</item>
+        <item>restaurant#Truffle.#Trufa.#HERE</item>
+        <item>restaurant#Vanilla.#Baunilha.#HERE</item>
+        <item>restaurant#Vinegar.#Vinagre.#HERE</item>
+        <item>restaurant#Artichoke.#Alcachofra.#HERE</item>
+        <item>restaurant#Asparagus.#Aspargo.#HERE</item>
+        <item>restaurant#Beet.#Beterraba.#HERE</item>
+        <item>restaurant#Bell pepper.#Pimentão.#HERE</item>
+        <item>restaurant#Broad beans.#Favas.#HERE</item>
+        <item>restaurant#Broccoli.#Brócolis.#HERE</item>
+        <item>restaurant#Brussels sprouts.#Couve de bruxelas.#HERE</item>
+        <item>restaurant#Cabbage.#Repolho.#HERE</item>
+        <item>restaurant#Carrot.#Cenoura.#HERE</item>
+        <item>restaurant#Cauliflower.#Couve flor.#HERE</item>
+        <item>restaurant#Celery.#Aipo.#HERE</item>
+        <item>restaurant#Chard.#Acelga.#HERE</item>
+        <item>restaurant#Chick peas.#Grão de bico.#HERE</item>
+        <item>restaurant#Cucumber.#Pepino.#HERE</item>
+        <item>restaurant#Eggplant.#Berinjela.#HERE</item>
+        <item>restaurant#Fennel.#Erva doce.#HERE</item>
+        <item>restaurant#Green onion.#Cebolinha verde.#HERE</item>
+        <item>restaurant#Leek.#Alho-porro.#HERE</item>
+        <item>restaurant#Lentils.#Lentilhas.#HERE</item>
+        <item>restaurant#Lettuce.#Alface.#HERE</item>
+        <item>restaurant#Mushrooms.#Cogumelo.#HERE</item>
+        <item>restaurant#Parsley.#Salsinha.#HERE</item>
+        <item>restaurant#Peas.#Ervilhas.#HERE</item>
+        <item>restaurant#Pumpkin.#Abóbora, cabaça.#HERE</item>
+        <item>restaurant#Spinach.#Espinafre.#HERE</item>
+        <item>restaurant#Squash.#Abóbora, zapallo.#HERE</item>
+        <item>restaurant#String beans.#Vagem.#HERE</item>
+        <item>restaurant#Sweet corn.#Milho.#HERE</item>
+        <item>restaurant#Sweet potato.#Batata doce.#HERE</item>
+        <item>restaurant#Tomato.#Tomate.#HERE</item>
+        <item>restaurant#Turnip.#Nabo.#HERE</item>
+        <item>restaurant#Watercress.#Agrião.#HERE</item>
+        <item>restaurant#Zucchini.#Abobrinha.#HERE</item>
+        <item>restaurant#Black pudding.#Morcilha.#HERE</item>
+        <item>restaurant#Breast.#Peito.#HERE</item>
+        <item>restaurant#Cold meats.#Frios.#HERE</item>
+        <item>restaurant#Cooked.#Cozida.#HERE</item>
+        <item>restaurant#Cutlet.#Costela.#HERE</item>
+        <item>restaurant#Fowl.#Ave.#HERE</item>
+        <item>restaurant#Goat.#Cabra, bode.#HERE</item>
+        <item>restaurant#Gravy.#Caldo de carne.#HERE</item>
+        <item>restaurant#Ground meat.#Carne moída.#HERE</item>
+        <item>restaurant#Kidneys.#Rins.#HERE</item>
+        <item>restaurant#Lamb.#Cordeiro.#HERE</item>
+        <item>restaurant#Liver.#Fígado.#HERE</item>
+        <item>restaurant#Marrow.#Medula.#HERE</item>
+        <item>restaurant#Mutton.#Carne de ovelha.#HERE</item>
+        <item>restaurant#Poultry.#Aves domésticas.#HERE</item>
+        <item>restaurant#Salami.#Salame.#HERE</item>
+        <item>restaurant#Sausage.#Linguiça.#HERE</item>
+        <item>restaurant#Sirloin steak.#Bife de lombo.#HERE</item>
+        <item>restaurant#Steak.#Bife.#HERE</item>
+        <item>restaurant#Suckling pig.#Leitão.#HERE</item>
+        <item>restaurant#Tongue.#Língua.#HERE</item>
+        <item>restaurant#Tripe.#Tripas.#HERE</item>
+        <item>restaurant#Turkey.#Pavão.#HERE</item>
+        <item>restaurant#Veal.#Carne de vitela.#HERE</item>
+        <item>restaurant#Veal steak.#Bife de vitela.#HERE</item>
+        <item>restaurant#Venison.#Carne de veado.#HERE</item>
+        <item>restaurant#I want beef.#Quero carne.#HERE</item>
+        <item>restaurant#Well done.#Bem passada.#HERE</item>
+        <item>restaurant#Bring me the bill.#Traga-me a conta.#HERE</item>
+        <item>restaurant#Cold cuts.#Frios.#HERE</item>
+        <item>restaurant#Ground meat.#Carne moída.#HERE</item>
+        <item>restaurant#Salami.#Salame.#HERE</item>
+        <item>restaurant#Sausage.#Linguiça.#HERE</item>
+        <item>8#I.#Eu.#HERE</item>
+        <item>8#I am a boy.#Eu sou um rapaz.#HERE</item>
+        <item>8#He.#Ele.#HERE</item>
+        <item>8#He is my brother.#Ele é meu irmão.#HERE</item>
+        <item>8#She.#Ela.#HERE</item>
+        <item>8#She is with us.#Ela está conosco.#HERE</item>
+        <item>8#We.#Nós.#HERE</item>
+        <item>8#We are together.#Nós estamos juntos.#HERE</item>
+        <item>8#Him.#Ele.#HERE</item>
+        <item>8#I gave the money to him.#Eu dei o dinheiro para ele.#HERE</item>
+        <item>8#Her.#Ela.#HERE</item>
+        <item>8#I am waiting for her.#Estou esperando por ela.#HERE</item>
+        <item>8#Us.#Nós.#HERE</item>
+        <item>8#Help us.#Ajudem-nos.#HERE</item>
+        <item>8#They.#Eles.#HERE</item>
+        <item>8#Them.#Eles.#HERE</item>
+        <item>8#Them.#Elas.#HERE</item>
+        <item>8#You.#Você.#HERE</item>
+        <item>8#You.#Vocês.#HERE</item>
+        <item>8#Our.#Nosso.#HERE</item>
+        <item>8#His.#Dele.#HERE</item>
+        <item>8#Her.#Dela.#HERE</item>
+        <item>8#Their.#Deles.#HERE</item>
+        <item>8#I am.#Eu sou.#HERE</item>
+        <item>8#I speak.#Eu falo.#HERE</item>
+        <item>8#He is handsome.#Ele é bonito.#HERE</item>
+        <item>8#She has children.#Ela tem filhos.#HERE</item>
+        <item>8#I need to call him.#Eu preciso chama-lo.#HERE</item>
+        <item>8#The car belongs to her.#O carro pertence a ela.#HERE</item>
+        <item>8#This is our hotel.#Esse é nosso hotel.#HERE</item>
+        <item>8#That is their hotel.#Aquele é o hotel deles.#HERE</item>
+        <item>8#We will go to the shopping mall.#Nós vamos para o shopping.#HERE</item>
+        <item>8#The bag is ours.#A mala é nossa.#HERE</item>
+        <item>8#What are their names?#Quais são os nomes deles?#HERE</item>
+        <item>8#Our flight departs in 15 minutes.#Nosso vôo sai em 15 minutos.#HERE</item>
+        <item>8#I am tall.#Eu sou alto.#HERE</item>
+        <item>8#You are short.#Você é baixo.#HERE</item>
+        <item>8#She is blonde.#Ela é loira.#HERE</item>
+        <item>8#We are tourists.#Nós somos turistas.#HERE</item>
+        <item>8#Call us in the morning.#Nos chame de manhã.#HERE</item>
+        <item>8#They have blue eyes.#Eles tem olhos azuis.#HERE</item>
+        <item>8#You are kind.#Vocês são gentis.#HERE</item>
+        <item>8#Who is fat?#Quem é gordo?#HERE</item>
+        <item>8#Person.#Pessoa.#HERE</item>
+        <item>places#Is near here?#É perto daqui?#HERE</item>
+        <item>places#No, it is far away.#Não, é muito longe.#HERE</item>
+        <item>places#It is close to the airport.#Fica perto do aeroporto.#HERE</item>
+        <item>places#Beside the square.#Ao lado da praça.#HERE</item>
+        <item>places#In downtown.#No centro da cidade.#HERE</item>
+        <item>places#In front the church.#Em frente a igreja.#HERE</item>
+        <item>places#In the second street.#Na rua 15.#HERE</item>
+        <item>places#In the avenue.#Na avenida.#HERE</item>
+        <item>places#Down on the road.#No final da estrada.#HERE</item>
+        <item>places#On the sidewalk.#Na calçada.#HERE</item>
+        <item>places#Where is the bus station?#Onde é a rodoviária?#HERE</item>
+        <item>places#The museum is near here?#O museu está próximo?#HERE</item>
+        <item>places#In the central stadium.#No estádio central.#HERE</item>
+        <item>places#An italian restaurant.#Um restaurante italiano.#HERE</item>
+        <item>places#I will go to the beach.#Vou para a praia.#HERE</item>
+        <item>places#A yellow house.#Uma casa amarela.#HERE</item>
+        <item>places#In the higher building.#No prédio mais alto.#HERE</item>
+        <item>places#It is in the van.#Está na van.#HERE</item>
+        <item>places#Restaurant.#Restaurante.#HERE</item>
+        <item>places#Snack bar.#Lanchonete.#HERE</item>
+        <item>places#Drugstore.#Farmácia.#HERE</item>
+        <item>places#Bakery.#Padaria.#HERE</item>
+        <item>places#Hotel.#Hotel.#HERE</item>
+        <item>places#Room.#Quarto.#HERE</item>
+        <item>places#Restroom.#Banheiro.#HERE</item>
+        <item>places#Bank.#Banco.#HERE</item>
+        <item>places#Sidewalk.#Calçada.#HERE</item>
+        <item>places#Candy store.#Bomboniere.#HERE</item>
+        <item>places#Police station.#Delegacia.#HERE</item>
+        <item>places#Square.#Praça.#HERE</item>
+        <item>places#Park.#Parque.#HERE</item>
+        <item>places#Stadium.#Estádio.#HERE</item>
+        <item>places#Parking lot.#Estacionamento.#HERE</item>
+        <item>places#Corner.#Esquina.#HERE</item>
+        <item>places#Beach.#Praia.#HERE</item>
+        <item>places#Laundry.#Lavanderia.#HERE</item>
+        <item>places#Barber Shop.#Barbearia.#HERE</item>
+        <item>places#Gas station.#Posto de gasolina.#HERE</item>
+        <item>places#Book store.#Banca de jornal.#HERE</item>
+        <item>places#airport.#Aeroporto.#HERE</item>
+        <item>places#Art gallery.#Galeria de arte.#HERE</item>
+        <item>places#Arts center.#Centro cultural.#HERE</item>
+        <item>places#Avenue.#Avenida.#HERE</item>
+        <item>places#Bank.#Banco.#HERE</item>
+        <item>places#Bar.#Bar.#HERE</item>
+        <item>places#Bicycle.#Bicicleta.#HERE</item>
+        <item>places#Boarding house.#Pensão, casa de hóspedes.#HERE</item>
+        <item>places#Bookstall.#Banca.#HERE</item>
+        <item>places#Botanical garden.#Jardim botânico.#HERE</item>
+        <item>places#Boulevard.#Bulevar.#HERE</item>
+        <item>places#Bridge.#Ponte.#HERE</item>
+        <item>places#Building site.#Obra em construção.#HERE</item>
+        <item>places#Buildings.#Edifícios.#HERE</item>
+        <item>places#Bus.#ônibus.#HERE</item>
+        <item>places#Bus station.#Estação de ônibus.#HERE</item>
+        <item>places#Bus stop.#Ponto de ônibus.#HERE</item>
+        <item>places#Castle.#Castelo.#HERE</item>
+        <item>places#Cathedral.#Catedral.#HERE</item>
+        <item>places#Cemetery.#Cemitério.#HERE</item>
+        <item>places#Church.#Igreja.#HERE</item>
+        <item>places#Circus.#Circo.#HERE</item>
+        <item>places#City hall.#Prefeitura.#HERE</item>
+        <item>places#Clock.#Relógio.#HERE</item>
+        <item>places#Consulate.#Consulado.#HERE</item>
+        <item>places#Corner.#Esquina.#HERE</item>
+        <item>places#Crossroads.#Cruz.#HERE</item>
+        <item>places#Crosswalk.#Faixa de pedestres.#HERE</item>
+        <item>places#Cul-de-sac.#Beco sem saída.#HERE</item>
+        <item>places#Curb.#Barbela.#HERE</item>
+        <item>places#Department store.#Grandes lojas.#HERE</item>
+        <item>places#District.#Bairro.#HERE</item>
+        <item>places#Ditch.#Fosso.#HERE</item>
+        <item>places#Downtown.#Centro da cidade.#HERE</item>
+        <item>places#Drugstore.#Farmácia.#HERE</item>
+        <item>places#Embassy.#Embaixada.#HERE</item>
+        <item>places#Fire brigade.#Corpo de bombeiros.#HERE</item>
+        <item>places#Fountain.#Fonte.#HERE</item>
+        <item>places#Gutter.#Sarjeta.#HERE</item>
+        <item>places#Hairdresser\'s.#Cabelereiro.#HERE</item>
+        <item>places#Highway.#Estrada.#HERE</item>
+        <item>places#Hospital.#Hospital.#HERE</item>
+        <item>places#Hostel.#Albergue.#HERE</item>
+        <item>places#Hotel.#Hotel.#HERE</item>
+        <item>places#House.#Casa.#HERE</item>
+        <item>places#Information office.#Escritório de informação.#HERE</item>
+        <item>places#Inhabitant.#Habitante.#HERE</item>
+        <item>places#Lane.#Travessa.#HERE</item>
+        <item>places#Laundromat.#Lavadeiro automático.#HERE</item>
+        <item>places#Lawcourt.#Tribunal.#HERE</item>
+        <item>places#Library.#Biblioteca.#HERE</item>
+        <item>places#Litter.#Lixo.#HERE</item>
+        <item>places#Mail box.#Caixinha do correio.#HERE</item>
+        <item>places#Market.#Mercado.#HERE</item>
+        <item>places#Monument.#Monumento.#HERE</item>
+        <item>places#Mosque.#Mesquita.#HERE</item>
+        <item>places#Motorcycle.#Motocicleta.#HERE</item>
+        <item>places#Motorists.#Motorista.#HERE</item>
+        <item>places#Movie theater.#Cinema.#HERE</item>
+        <item>places#Museum.#Museu.#HERE</item>
+        <item>places#Neighborhood.#Bairro.#HERE</item>
+        <item>places#Neon signs.#Letreiros luminosos.#HERE</item>
+        <item>places#Newspaper stand.#Banca de jornal.#HERE</item>
+        <item>places#Night club.#Clube noturno.#HERE</item>
+        <item>places#Old people\'s home.#Asilo.#HERE</item>
+        <item>places#Orphanage.#Orfanato.#HERE</item>
+        <item>places#Outskirts.#Arrabaldes.#HERE</item>
+        <item>places#Palace.#Palácio.#HERE</item>
+        <item>places#Park.#Parque.#HERE</item>
+        <item>places#Parking lot.#Estacionamento.#HERE</item>
+        <item>places#Passage.#Passagem.#HERE</item>
+        <item>places#Passer-by.#Transeunte.#HERE</item>
+        <item>places#Pedestrian.#Pedestre.#HERE</item>
+        <item>places#Pedestrian zone.#Zona de pedestre.#HERE</item>
+        <item>places#Phone booth.#Cabine telefônica.#HERE</item>
+        <item>places#Police station.#Delegacia.#HERE</item>
+        <item>places#Port.#Porto.#HERE</item>
+        <item>places#Post office.#Correios.#HERE</item>
+        <item>places#Prison.#Prisão.#HERE</item>
+        <item>places#Promenade.#Passeio.#HERE</item>
+        <item>places#Railroad station.#Estação ferroviária.#HERE</item>
+        <item>places#Restaurant.#Restaurante.#HERE</item>
+        <item>places#Ring road.#Anel viário.#HERE</item>
+        <item>places#Road.#Caminho.#HERE</item>
+        <item>places#School.#Escola.#HERE</item>
+        <item>places#Sewers.#Tubo.#HERE</item>
+        <item>places#Shop.#Loja.#HERE</item>
+        <item>places#Shop windows.#Vitrine.#HERE</item>
+        <item>places#Shopping mall.#Centro comercial.#HERE</item>
+        <item>places#Sidewalk.#Calçada.#HERE</item>
+        <item>places#Skyscraper.#Arranha-céu.#HERE</item>
+        <item>places#Slums.#Bairro baixo.#HERE</item>
+        <item>places#Square.#Praça.#HERE</item>
+        <item>places#Stadium.#Estádio.#HERE</item>
+        <item>places#Statue.#Estátua.#HERE</item>
+        <item>places#Stock exchange.#A bolsa de valores.#HERE</item>
+        <item>places#Street.#Rua.#HERE</item>
+        <item>places#Streetcar.#Carro elétrico.#HERE</item>
+        <item>places#Streetlamps.#Iluminação de rua.#HERE</item>
+        <item>places#Suburbs.#Subúrbio.#HERE</item>
+        <item>places#Subway.#Metrô.#HERE</item>
+        <item>places#Subway station.#Estação de metrô.#HERE</item>
+        <item>places#Synagogue.#Sinagoga.#HERE</item>
+        <item>places#Taxi cab.#Taxi.#HERE</item>
+        <item>places#Telephones.#Telefones.#HERE</item>
+        <item>places#Theatre.#Teatro.#HERE</item>
+        <item>places#Tourist.#Turista.#HERE</item>
+        <item>places#Tourist office.#Agência de turismo.#HERE</item>
+        <item>places#Townspeople.#Habitantes da cidade.#HERE</item>
+        <item>places#Traffic.#Tráfico, circulação.#HERE</item>
+        <item>places#Traffic light.#Semáforo.#HERE</item>
+        <item>places#Traffic policeman.#Polícia de trânsito.#HERE</item>
+        <item>places#Tramp.#Vagabundo, mendigo.#HERE</item>
+        <item>places#Trashcan.#Papeleira.#HERE</item>
+        <item>places#Travel agency.#Agência de viagens.#HERE</item>
+        <item>places#Trees.#Árvores.#HERE</item>
+        <item>places#Truck.#Caminhão.#HERE</item>
+        <item>places#Tunnel.#Túnel.#HERE</item>
+        <item>places#University.#Universidade.#HERE</item>
+        <item>places#Zoo.#Zoológico.#HERE</item>
+        <item>places#bakery.#Padaria.#HERE</item>
+        <item>places#Barber\'s.#Barbearia.#HERE</item>
+        <item>places#Bookstore.#Livraria.#HERE</item>
+        <item>places#Butcher\'s.#Açougue.#HERE</item>
+        <item>places#Cake shop.#Confeitaria.#HERE</item>
+        <item>places#Candy store.#Confeitaria.#HERE</item>
+        <item>places#Children\'s wear.#Roupa de criança.#HERE</item>
+        <item>places#Clothing store.#Loja de roupas.#HERE</item>
+        <item>places#Coffee shop.#Café.#HERE</item>
+        <item>places#Confectioner\'s.#Confeitaria.#HERE</item>
+        <item>places#Dairy store.#Leiteria.#HERE</item>
+        <item>places#Delicatessen.#Casa de mercearias finas.#HERE</item>
+        <item>places#Drugstore.#Farmácia.#HERE</item>
+        <item>places#Dry cleaner\'s.#Lavanderia a seco.#HERE</item>
+        <item>places#Estate agency.#Imobiliária.#HERE</item>
+        <item>places#Fishmonger\'s.#Peixaria.#HERE</item>
+        <item>places#Florist\'s.#Floricultura.#HERE</item>
+        <item>places#Fruit shop.#Frutaria.#HERE</item>
+        <item>places#Furniture store.#Loja de móveis.#HERE</item>
+        <item>places#Gas station.#Posto de gasolina.#HERE</item>
+        <item>places#Greengrocer\'s.#Verdureiro.#HERE</item>
+        <item>places#Grocery store.#Armazém.#HERE</item>
+        <item>places#Hairdresser\'s.#Salão de beleza.#HERE</item>
+        <item>places#Hardware shop.#Loja de ferragens.#HERE</item>
+        <item>places#Herbalist\'s shop.#Loja de hervas.#HERE</item>
+        <item>places#Ice-cream parlour.#Sorveteria.#HERE</item>
+        <item>places#Ironmonger\'s.#Ferragista.#HERE</item>
+        <item>places#Jeweller\'s.#Joalheria.#HERE</item>
+        <item>places#Jewellery store.#Joalheria.#HERE</item>
+        <item>places#Kiosk.#Quiosque.#HERE</item>
+        <item>places#Ladies\' wear.#Roupa feminina.#HERE</item>
+        <item>places#Laundromat.#Lavanderia.#HERE</item>
+        <item>places#Leather goods shop.#Loja de peles.#HERE</item>
+        <item>places#Mall.#Centro comercial.#HERE</item>
+        <item>places#Market.#Mercado.#HERE</item>
+        <item>places#Men\'s wear.#Roupa masculina.#HERE</item>
+        <item>places#Music store.#Loja de música.#HERE</item>
+        <item>places#Newsstand.#Banca de jornal.#HERE</item>
+        <item>places#Optician\'s.#óptica.#HERE</item>
+        <item>places#Perfumery.#Perfumaria.#HERE</item>
+        <item>places#Pet shop.#Loja de animais de estimação.#HERE</item>
+        <item>places#Pharmacy.#Farmácia.#HERE</item>
+        <item>places#Shoe shop.#Sapataria.#HERE</item>
+        <item>places#Shopping center.#Centro de compras.#HERE</item>
+        <item>places#Shops.#Lojas.#HERE</item>
+        <item>places#Souvenir shop.#Loja de souvenirs.#HERE</item>
+        <item>places#Sports store.#Loja de esportes.#HERE</item>
+        <item>places#Stationery store.#Papelaria.#HERE</item>
+        <item>places#Stores.#Lojas.#HERE</item>
+        <item>places#Supermarket.#Supermercado.#HERE</item>
+        <item>places#Toy store.#Loja de brinquedos.#HERE</item>
+        <item>places#Travel agency.#Agência de viagens.#HERE</item>
+        <item>places#Vegetable store.#Verduraria.#HERE</item>
+        <item>places#Video store.#Loja de vídeos.#HERE</item>
+        <item>verbs#To ask.#Perguntar.#HERE</item>
+        <item>verbs#To answer.#Responder.#HERE</item>
+        <item>verbs#To listen.#Ouvir.#HERE</item>
+        <item>verbs#To say.#Dizer.#HERE</item>
+        <item>verbs#To do.#Fazer.#HERE</item>
+        <item>verbs#To draw.#Desenhar.#HERE</item>
+        <item>verbs#To wear.#Usar.#HERE</item>
+        <item>verbs#To see.#Ver.#HERE</item>
+        <item>verbs#To sleep.#Dormir.#HERE</item>
+        <item>verbs#To open.#Abrir.#HERE</item>
+        <item>verbs#To close.#Fechar.#HERE</item>
+        <item>verbs#To erase.#Apagar.#HERE</item>
+        <item>verbs#To call.#Chamar.#HERE</item>
+        <item>verbs#To drink.#Beber.#HERE</item>
+        <item>verbs#To eat.#Comer.#HERE</item>
+        <item>verbs#To act.#Agir.#HERE</item>
+        <item>verbs#To kiss.#Beijar.#HERE</item>
+        <item>verbs#To meet.#Conhecer.#HERE</item>
+        <item>verbs#To avoid.#Evitar.#HERE</item>
+        <item>verbs#To bake.#Assar.#HERE</item>
+        <item>verbs#To cook.#Cozinhar.#HERE</item>
+        <item>verbs#To boil.#Ferver.#HERE</item>
+        <item>verbs#To imagine.#Imaginar.#HERE</item>
+        <item>verbs#To describe.#Descrever.#HERE</item>
+        <item>verbs#To try.#Tentar.#HERE</item>
+        <item>verbs#To talk.#Conversar.#HERE</item>
+        <item>verbs#To sell.#Vender.#HERE</item>
+        <item>verbs#To buy.#Comprar.#HERE</item>
+        <item>verbs#To wish.#Desejar.#HERE</item>
+        <item>verbs#To walk.#Andar.#HERE</item>
+        <item>verbs#To run.#Correr.#HERE</item>
+        <item>verbs#To sing.#Cantar.#HERE</item>
+        <item>verbs#To park.#Estacionar.#HERE</item>
+        <item>verbs#To drive.#Dirigir.#HERE</item>
+        <item>verbs#To create.#Criar.#HERE</item>
+        <item>verbs#To feel.#Sentir.#HERE</item>
+        <item>verbs#To learn.#Aprender.#HERE</item>
+        <item>verbs#To write.#Escrever.#HERE</item>
+        <item>verbs#To believe.#Acreditar.#HERE</item>
+        <item>verbs#To be.#Ser/estar.#HERE</item>
+        <item>verbs#To appear.#Aparecer.#HERE</item>
+        <item>verbs#To agree.#Concordar.#HERE</item>
+        <item>verbs#To complain.#Reclamar.#HERE</item>
+        <item>verbs#To carry.#Carregar.#HERE</item>
+        <item>verbs#To change.#Mudar.#HERE</item>
+        <item>verbs#To wash.#Lavar.#HERE</item>
+        <item>verbs#To wait.#Esperar.#HERE</item>
+        <item>verbs#To watch.#Assistir.#HERE</item>
+        <item>verbs#To paint.#Pintar.#HERE</item>
+        <item>verbs#To hold.#Segurar.#HERE</item>
+        <item>verbs#To solve.#Resolver.#HERE</item>
+        <item>verbs#To lend.#Emprestar.#HERE</item>
+        <item>verbs#To live.#Viver.#HERE</item>
+        <item>verbs#To arrive.#Chegar.#HERE</item>
+        <item>verbs#To leave.#Sair.#HERE</item>
+        <item>verbs#To start.#Começar.#HERE</item>
+        <item>verbs#To pay.#Pagar.#HERE</item>
+        <item>verbs#To spend.#Gastar.#HERE</item>
+        <item>verbs#To save.#Salvar/economizar.#HERE</item>
+        <item>verbs#To choose.#Escolher.#HERE</item>
+        <item>verbs#To build.#Construir.#HERE</item>
+        <item>verbs#To come.#Vir.#HERE</item>
+        <item>verbs#To find.#Encontrar.#HERE</item>
+        <item>verbs#To give.#Dar.#HERE</item>
+        <item>body#Head.#Cabeça.#HERE</item>
+        <item>body#Eye.#Olho.#HERE</item>
+        <item>body#Eyebrow.#Sombrancelha.#HERE</item>
+        <item>body#Eyelash.#Cílio.#HERE</item>
+        <item>body#Eyelid.#Pálpebra.#HERE</item>
+        <item>body#Nose.#Nariz.#HERE</item>
+        <item>body#Nostril.#Narina.#HERE</item>
+        <item>body#Mouth.#Boca.#HERE</item>
+        <item>body#Tongue.#Língua.#HERE</item>
+        <item>body#Gum.#Gengiva.#HERE</item>
+        <item>body#Throat.#Garganta.#HERE</item>
+        <item>body#Neck.#Pescoço.#HERE</item>
+        <item>body#Trunk.#Tronco.#HERE</item>
+        <item>body#Chest.#Peito.#HERE</item>
+        <item>body#Breast.#Seio.#HERE</item>
+        <item>body#Belly.#Barriga.#HERE</item>
+        <item>body#Belly button.#Umbigo.#HERE</item>
+        <item>body#Waist.#Cintura.#HERE</item>
+        <item>body#Arm.#Braço.#HERE</item>
+        <item>body#Forearm.#Antebraço.#HERE</item>
+        <item>body#Elbow.#Cotovelo.#HERE</item>
+        <item>body#Shoulder.#Ombro.#HERE</item>
+        <item>body#Armpit.#Axila.#HERE</item>
+        <item>body#Hand.#Mão.#HERE</item>
+        <item>body#Finger.#Dedo.#HERE</item>
+        <item>body#Leg.#Perna.#HERE</item>
+        <item>body#Knee.#Joelho.#HERE</item>
+        <item>body#Shin.#Canela.#HERE</item>
+        <item>body#Calf.#Panturrilha.#HERE</item>
+        <item>body#Foot.#Pé.#HERE</item>
+        <item>body#Toe.#Dedão do pé.#HERE</item>
+        <item>body#Muscle.#Músculo.#HERE</item>
+        <item>body#Bone.#Osso.#HERE</item>
+        <item>body#Pharynx.#Faringe.#HERE</item>
+        <item>body#Stomach.#Estômago.#HERE</item>
+        <item>body#Esophagus.#Esôfago.#HERE</item>
+        <item>body#Liver.#Fígado.#HERE</item>
+        <item>body#Kidney.#Rim.#HERE</item>
+        <item>body#Lung.#Pulmão.#HERE</item>
+        <item>body#Heart.#Coração.#HERE</item>
+        <item>1airport#Zero.#Zero.#HERE</item>
+        <item>1airport#One.#Um.#HERE</item>
+        <item>1airport#Two.#Dois.#HERE</item>
+        <item>1airport#Three.#Três.#HERE</item>
+        <item>1airport#Four.#Quatro.#HERE</item>
+        <item>1airport#Five.#Cinco.#HERE</item>
+        <item>1airport#Six.#Seis.#HERE</item>
+        <item>1airport#Seven.#Sete.#HERE</item>
+        <item>1airport#Eight.#Oito.#HERE</item>
+        <item>1airport#Nine.#Nove.#HERE</item>
+        <item>1airport#Ten.#Dez.#HERE</item>
+        <item>1airport#Eleven.#Onze.#HERE</item>
+        <item>1airport#Twelve.#Doze.#HERE</item>
+        <item>1airport#Thirteen.#Treze.#HERE</item>
+        <item>1airport#Fourteen.#Quatorze.#HERE</item>
+        <item>1airport#Fifteen.#Quinze.#HERE</item>
+        <item>1airport#Sixteen.#Dezesseis.#HERE</item>
+        <item>1airport#Seventeen.#Dezessete.#HERE</item>
+        <item>1airport#Eighteen.#Dezoito.#HERE</item>
+        <item>1airport#Nineteen.#Dezenove.#HERE</item>
+        <item>1airport#Twenty.#Vinte.#HERE</item>
+        <item>1airport#Twenty-one.#Vinte e um.#HERE</item>
+        <item>1airport#Twenty-two.#Vinte e dois.#HERE</item>
+        <item>1airport#Thirty.#Trinta.#HERE</item>
+        <item>1airport#Fourty.#Quarenta.#HERE</item>
+        <item>1airport#Fifty.#Cinquenta.#HERE</item>
+        <item>1airport#Sixty.#Sessenta.#HERE</item>
+        <item>1airport#Seventy.#Setenta.#HERE</item>
+        <item>1airport#Eighty.#Oitenta.#HERE</item>
+        <item>1airport#Ninety.#Noventa.#HERE</item>
+        <item>1airport#One hundred.#Cem.#HERE</item>
+        <item>1airport#One hundred ten.#Cento e dez.#HERE</item>
+        <item>1airport#One hundred eleven.#Cento e onze.#HERE</item>
+        <item>1airport#Two hundred.#Duzentos.#HERE</item>
+        <item>1airport#Two hundred twenty one.#Duzentos e vinte e um.#HERE</item>
+        <item>1airport#Three hundred.#Trezentos.#HERE</item>
+        <item>1airport#Four hundred.#Quatrocentos.#HERE</item>
+        <item>1airport#One thousand.#Mil.#HERE</item>
+        <item>1airport#Two thousand.#Dois mil.#HERE</item>
+        <item>1airport#Three thousand five hundred and fifty one.#Três mil quinhentos e cinquenta e um.#HERE</item>
+        <item>1airport#First.#Primeiro.#HERE</item>
+        <item>health#I need to see a doctor.#Preciso ir a um médico.#HERE</item>
+        <item>health#I am feeling sick.#Estou doente.#HERE</item>
+        <item>health#What are you feeling?#O que você está sentindo?#HERE</item>
+        <item>health#My stomach hurts.#Meu estômago está doendo.#HERE</item>
+        <item>health#Are you allergic to anything?#Você é alérgico a alguma coisa?#HERE</item>
+        <item>health#Where is the nearest hospital?#Onde é o hospital mais próximo?#HERE</item>
+        <item>health#Call an ambulance please.#Chame uma ambulância por favor.#HERE</item>
+        <item>health#Where can I find a drugstore?#Onde posso achar uma farmácia?#HERE</item>
+        <item>health#I have headache.#Tenho dor de cabeça.#HERE</item>
+        <item>health#I need a medicine.#Preciso de um remédio.#HERE</item>
+        <item>health#I have my arm broken.#Quebrei meu braço.#HERE</item>
+        <item>health#I have diabetes.#Sou diabético.#HERE</item>
+        <item>health#I am feeling bad.#Estou me sentindo mal.#HERE</item>
+        <item>health#I have heart problems.#Tenho problemas de coração.#HERE</item>
+        <item>health#I can\'t breathe well.#Não consigo respirar bem.#HERE</item>
+        <item>health#I need my medicine.#Preciso do meu remédio.#HERE</item>
+        <item>health#Help is comming.#A ajuda está chegando.#HERE</item>
+        <item>health#I have a cold.#Eu estou gripado.#HERE</item>
+        <item>health#I have medical insurance.#Eu tenho seguro de saúde.#HERE</item>
+        <item>health#I will pay the doctors and hospital biils.#Eu pagarei a conta de médicos e hospitais.#HERE</item>
+        <item>safety#Call the police please.#Chame a polícia por favor.#HERE</item>
+        <item>safety#I need help.#Preciso de ajuda.#HERE</item>
+        <item>safety#What happened?#O que aconteceu?#HERE</item>
+        <item>safety#I was stolen.#Fui roubado.#HERE</item>
+        <item>safety#My watch has been stolen..#Meu relógio foi roubado.#HERE</item>
+        <item>safety#I am lost!#Estou perdido!#HERE</item>
+        <item>safety#My son has disappeared!#Meu filho desapareceu!#HERE</item>
+        <item>safety#Someone has stolen my wallet.#Alguem roubou minha carteira.#HERE</item>
+        <item>safety#Someone has hit me!#Alguem me bateu!#HERE</item>
+        <item>safety#Where did it happen?#Onde isso aconteceu?#HERE</item>
+        <item>safety#Where is the American consulate?#Onde fica o consulado americano?#HERE</item>
+        <item>safety#I can\'t find my car!#Não encontro meu carro!#HERE</item>
+        <item>safety#My car was stolen!#Meu carro foi roubado!#HERE</item>
+        <item>safety#I have lost my passport.#Perdi meu passaporte.#HERE</item>
+        <item>safety#I got in an accident.#Eu me envolvi em um acidente.#HERE</item>
+        <item>safety#Someone has crashed my car.#Alguem bateu no meu carro.#HERE</item>
+        <item>safety#I need someone that speaks English.#Preciso de alguem que fale Inglês.#HERE</item>
+        <item>safety#The thief is about 20 years old.#O ladrão tem aproximadamente 20 anos de idade.#HERE</item>
+        <item>safety#He was wearing a yellow tshirt and had a tatoo on his right arm.#Ele estava vestindo camiseta amarela e tinha uma tatuagem no braço direito.#HERE</item>
+        <item>safety#I had a car accident!#Tive um acidente de carro!#HERE</item>
+        <item>kitchen#Where are the cutlery.#Onde estão os talheres.#HERE</item>
+        <item>kitchen#Potato Smasher.#Amassador de batatas.#HERE</item>
+        <item>kitchen#Saucepan.#Caçarola.#HERE</item>
+        <item>kitchen#Coffeepot.#Cafeteira.#HERE</item>
+        <item>kitchen#Kettle.#Chaleira.#HERE</item>
+        <item>kitchen#Colander.#Coador.#HERE</item>
+        <item>kitchen#Spoon.#Colher.#HERE</item>
+        <item>kitchen#Teaspoon.#Colher de chá.#HERE</item>
+        <item>kitchen#Ladle.#Concha.#HERE</item>
+        <item>kitchen#Glass.#Copo.#HERE</item>
+        <item>kitchen#Pizza cutter.#Cortador de pizza.#HERE</item>
+        <item>kitchen#Lemon squeezer.#Espremedor de limão.#HERE</item>
+        <item>kitchen#Knife.#Faca.#HERE</item>
+        <item>kitchen#Butter knife.#Faca sem ponta.#HERE</item>
+        <item>kitchen#Fork.#Garfo.#HERE</item>
+        <item>kitchen#Jug.#Jarra.#HERE</item>
+        <item>kitchen#Mug.#Jarra.#HERE</item>
+        <item>kitchen#Pepper mill.#Moedor de pimenta.#HERE</item>
+        <item>kitchen#Pot.#Panela.#HERE</item>
+        <item>kitchen#Bowl.#Tigela.#HERE</item>
+        <item>kitchen#Cutting board.#Tábua de carnes.#HERE</item>
+        <item>kitchen#Frying pan.#Frigideira.#HERE</item>
+        <item>kitchen#Flask.#Garrafa térmica.#HERE</item>
+        <item>kitchen#Blender.#Liquidificador.#HERE</item>
+        <item>kitchen#Baking tray.#Forma.#HERE</item>
+        <item>kitchen#Mixer.#Batedeira.#HERE</item>
+        <item>kitchen#Teapot.#Bule.#HERE</item>
+        <item>kitchen#Cooler.#Caixa térmica.#HERE</item>
+        <item>kitchen#Oven gloves.#Luvas térmicas.#HERE</item>
+        <item>kitchen#Sieve.#Coador.#HERE</item>
+        <item>kitchen#To bake.#Assar.#HERE</item>
+        <item>kitchen#Barbecue.#Churrasco.#HERE</item>
+        <item>kitchen#Blender.#Liquidificador.#HERE</item>
+        <item>kitchen#To boil.#Ferver.#HERE</item>
+        <item>kitchen#Bottle opener.#Abridor de garrafa.#HERE</item>
+        <item>kitchen#Cake slicer.#Espátula.#HERE</item>
+        <item>kitchen#To chop.#Picar.#HERE</item>
+        <item>kitchen#Chopping board.#Tábua de cortar.#HERE</item>
+        <item>kitchen#Coffee maker.#Cafeteira elétrica.#HERE</item>
+        <item>kitchen#Colander.#Escorredor.#HERE</item>
+        <item>kitchen#Corkscrew.#Saca-rolhas.#HERE</item>
+        <item>kitchen#Dice.#Cortar em cubos.#HERE</item>
+        <item>kitchen#Electric whisk.#Batedeira elétrica.#HERE</item>
+        <item>kitchen#Espresso maker.#Máquina de café expresso.#HERE</item>
+        <item>kitchen#Fork.#Garfo.#HERE</item>
+        <item>kitchen#To fry.#Fritar.#HERE</item>
+        <item>kitchen#Hood.#Coifa.#HERE</item>
+        <item>kitchen#Ice cream scoop.#Colher de sorvete.#HERE</item>
+        <item>kitchen#Kettle.#Chaleira.#HERE</item>
+        <item>kitchen#Knead.#Sovar.#HERE</item>
+        <item>kitchen#Knife.#Faca.#HERE</item>
+        <item>kitchen#Frying pan.#Frigideira.#HERE</item>
+        <item>kitchen#Garlic crusher.#Espremedor de alho.#HERE</item>
+        <item>kitchen#To grate.#Ralar.#HERE</item>
+        <item>kitchen#Grater.#Ralador.#HERE</item>
+        <item>kitchen#To grill.#Grelhar.#HERE</item>
+        <item>kitchen#Ladle.#Concha.#HERE</item>
+        <item>kitchen#To mash.#Amassar.#HERE</item>
+        <item>kitchen#Microwave oven.#Forno micro-ondas.#HERE</item>
+        <item>kitchen#Oven.#Forno.#HERE</item>
+        <item>kitchen#Pan.#Panela.#HERE</item>
+        <item>kitchen#Pepper mill.#Moedor de pimenta.#HERE</item>
+        <item>kitchen#Pressure cooker.#Panela de pressão.#HERE</item>
+        <item>kitchen#Roast.#Tostar; assar.#HERE</item>
+        <item>kitchen#Roll out.#Amassar com rolo.#HERE</item>
+        <item>kitchen#Rolling pin.#Rolo para massass.#HERE</item>
+        <item>kitchen#Silverware.#Talheres.#HERE</item>
+        <item>kitchen#Slice.#Fatiar.#HERE</item>
+        <item>kitchen#Spoon.#Colher.#HERE</item>
+        <item>kitchen#Steam.#Cozinhar no vapor.#HERE</item>
+        <item>kitchen#Stir-fry.#Saltear.#HERE</item>
+        <item>kitchen#Stove.#Fogão.#HERE</item>
+        <item>kitchen#Teapot.#Bule de chá.#HERE</item>
+        <item>kitchen#To whip.#Bater (ex. ovos ou massas líquidas)#HERE</item>
+        <item>kitchen#Wooden spoon.#Colher de pau.#HERE</item>
+        <item>kitchen#To grill.#Grelhar.#HERE</item>
+        <item>kitchen#To grind.#Moer.#HERE</item>
+        <item>kitchen#To halve.#Partir em dois.#HERE</item>
+        <item>kitchen#To heat.#Esquentar.#HERE</item>
+        <item>kitchen#To knead.#Amassar.#HERE</item>
+        <item>kitchen#To liquidize.#Liquidificar.#HERE</item>
+        <item>kitchen#To melt.#Derreter.#HERE</item>
+        <item>kitchen#To mince.#Picar carne.#HERE</item>
+        <item>kitchen#To mix.#Misturar.#HERE</item>
+        <item>kitchen#To peel.#Descascar.#HERE</item>
+        <item>kitchen#To pour.#Vazar.#HERE</item>
+        <item>kitchen#To press.#Pressionar, apertar.#HERE</item>
+        <item>kitchen#To put.#Colocar, pôr.#HERE</item>
+        <item>kitchen#To remove.#Remover.#HERE</item>
+        <item>kitchen#To rinse.#Enxaguar.#HERE</item>
+        <item>kitchen#To roast.#Assar.#HERE</item>
+        <item>kitchen#To roll out.#Estender.#HERE</item>
+        <item>kitchen#To scoop up.#Escavar.#HERE</item>
+        <item>kitchen#To seal.#Selar.#HERE</item>
+        <item>kitchen#To season.#Condimentar.#HERE</item>
+        <item>kitchen#To serve.#Servir.#HERE</item>
+        <item>kitchen#To shake.#Agitar, sacudir.#HERE</item>
+        <item>kitchen#To sharpen.#Afiar.#HERE</item>
+        <item>kitchen#To sieve.#Peneirar.#HERE</item>
+        <item>kitchen#To simmer.#Cozinhar lentamente.#HERE</item>
+        <item>kitchen#To slice.#Remover.#HERE</item>
+        <item>kitchen#To smoke.#Defumar.#HERE</item>
+        <item>kitchen#To soak.#Molhar.#HERE</item>
+        <item>kitchen#To spill.#Derramar.#HERE</item>
+        <item>kitchen#To sprinkle.#Salpicar.#HERE</item>
+        <item>kitchen#To squeeze.#Expremer.#HERE</item>
+        <item>kitchen#To steam.#Cozinhar a vapor.#HERE</item>
+        <item>kitchen#To stew.#Cozinhar por fervura lenta.#HERE</item>
+        <item>kitchen#To stir.#Fritar.#HERE</item>
+        <item>kitchen#To stir-fry.#Refogar.#HERE</item>
+        <item>kitchen#To strain.#Puxar.#HERE</item>
+        <item>kitchen#To stuff.#Encher.#HERE</item>
+        <item>kitchen#To thicken.#Engrossar.#HERE</item>
+        <item>kitchen#To trim.#Aparar.#HERE</item>
+        <item>kitchen#To waste.#Desperdiçar.#HERE</item>
+        <item>kitchen#To whisk.#Bater.#HERE</item>
+        <item>bathroom#basket.#Cesto.#HERE</item>
+        <item>bathroom#Bath mat.#Tapete.#HERE</item>
+        <item>bathroom#Bath salts.#Sais de banho.#HERE</item>
+        <item>bathroom#Bathtub.#Banheira.#HERE</item>
+        <item>bathroom#Bidet.#Bidê.#HERE</item>
+        <item>bathroom#Brush.#Escova.#HERE</item>
+        <item>bathroom#Bubble.#Bolha.#HERE</item>
+        <item>bathroom#Cold water.#Água fria.#HERE</item>
+        <item>bathroom#Comb.#Pente.#HERE</item>
+        <item>bathroom#Curtain.#Cortina.#HERE</item>
+        <item>bathroom#Deodorant.#Desodorante.#HERE</item>
+        <item>bathroom#Drain.#Dreno.#HERE</item>
+        <item>bathroom#Electric razor.#Barbeador elétrico.#HERE</item>
+        <item>bathroom#Faucet.#Torneira.#HERE</item>
+        <item>bathroom#Floss.#Fios.#HERE</item>
+        <item>bathroom#Foam.#Espuma.#HERE</item>
+        <item>bathroom#Hair dryer.#Secador de cabelo.#HERE</item>
+        <item>bathroom#Hair gel.#Gel.#HERE</item>
+        <item>bathroom#Hairbrush.#Escova de cabelo.#HERE</item>
+        <item>bathroom#Hand towel.#Toalha de mão.#HERE</item>
+        <item>bathroom#Hot water.#Água quente.#HERE</item>
+        <item>bathroom#Lipstick.#Batom.#HERE</item>
+        <item>bathroom#Lotion.#Loção.#HERE</item>
+        <item>bathroom#Medicine chest.#Caixa de primeiros socorros.#HERE</item>
+        <item>bathroom#Nail clippers.#Cortador de unhas.#HERE</item>
+        <item>bathroom#Nail polish.#Esmalte.#HERE</item>
+        <item>bathroom#Nailbrush.#Escova de unhas.#HERE</item>
+        <item>bathroom#Perfume.#Perfume.#HERE</item>
+        <item>bathroom#Razor.#Gilete.#HERE</item>
+        <item>bathroom#Razor blade.#Lâmina gilete.#HERE</item>
+        <item>bathroom#Scale.#Balança.#HERE</item>
+        <item>bathroom#Shampoo.#Xampu.#HERE</item>
+        <item>bathroom#Shaving cream.#Creme de barbear.#HERE</item>
+        <item>bathroom#Shelf.#Estante.#HERE</item>
+        <item>bathroom#Shower.#Chuveiro.#HERE</item>
+        <item>bathroom#Sink.#Pia.#HERE</item>
+        <item>bathroom#Soap.#Sabão.#HERE</item>
+        <item>bathroom#Soap dish.#Saboneteira.#HERE</item>
+        <item>bathroom#Sponge.#Esponja.#HERE</item>
+        <item>bathroom#Stopper.#Rolha.#HERE</item>
+        <item>bathroom#Tile.#Azulejo.#HERE</item>
+        <item>bathroom#Toilet.#Vaso.#HERE</item>
+        <item>bathroom#Toilet paper.#Papel higiênico.#HERE</item>
+        <item>bathroom#Toothbrush.#Escova de dente.#HERE</item>
+        <item>bathroom#Toothpaste.#Pasta de dente.#HERE</item>
+        <item>bathroom#Towel.#Toalha.#HERE</item>
+        <item>bathroom#Towel rack.#Porta-toalhas.#HERE</item>
+        <item>bathroom#Tweezers.#Pinça.#HERE</item>
+        <item>bathroom#Washcloth.#Pano para lavar o rosto.#HERE</item>
+        <item>food#Almonds.#Amêndoa.#HERE</item>
+        <item>food#Apple.#Maçã.#HERE</item>
+        <item>food#Apricot.#Damasco.#HERE</item>
+        <item>food#Avocado.#Abacate.#HERE</item>
+        <item>food#Banana.#Banana.#HERE</item>
+        <item>food#Blackberry.#Amora-preta.#HERE</item>
+        <item>food#Cherry.#Cereja.#HERE</item>
+        <item>food#Chestnuts.#Castanhas.#HERE</item>
+        <item>food#Coconuts.#Cocos.#HERE</item>
+        <item>food#Date.#Datil.#HERE</item>
+        <item>food#Fig.#Figo.#HERE</item>
+        <item>food#Grapefruit.#Taranja.#HERE</item>
+        <item>food#Grapes.#Uvas.#HERE</item>
+        <item>food#Hazelnuts.#Avelã.#HERE</item>
+        <item>food#Lemon.#Limão.#HERE</item>
+        <item>food#Lime.#Lima.#HERE</item>
+        <item>food#Mango.#Manga.#HERE</item>
+        <item>food#Medlar.#Nêspera.#HERE</item>
+        <item>food#Melon.#Melão.#HERE</item>
+        <item>food#Mulberry.#Amora.#HERE</item>
+        <item>food#Orange.#Laranja.#HERE</item>
+        <item>food#Peach.#Pêssego.#HERE</item>
+        <item>food#Peanuts.#Amendoim.#HERE</item>
+        <item>food#Pear.#Pêra.#HERE</item>
+        <item>food#Pineapple.#Abacaxi.#HERE</item>
+        <item>food#Plum.#Ameixa.#HERE</item>
+        <item>food#Pomegranate.#Romã.#HERE</item>
+        <item>food#Quince.#Marmelo.#HERE</item>
+        <item>food#Raspberry.#Framboesa.#HERE</item>
+        <item>food#Seed.#Semente.#HERE</item>
+        <item>food#Strawberry.#Morango.#HERE</item>
+        <item>food#Tangerine.#Tangerina.#HERE</item>
+        <item>food#Walnuts.#Nozes.#HERE</item>
+        <item>food#Watermelon.#Melancia.#HERE</item>
+        <item>food#artichoke.#Alcachofra.#HERE</item>
+        <item>food#Asparagus.#Aspargo.#HERE</item>
+        <item>food#Beans.#Feijão.#HERE</item>
+        <item>food#Beet.#Beterraba.#HERE</item>
+        <item>food#Bell pepper.#Pimentão.#HERE</item>
+        <item>food#Broad beans.#Favas.#HERE</item>
+        <item>food#Broccoli.#Brócolis.#HERE</item>
+        <item>food#Brussels sprouts.#Couve de bruxelas.#HERE</item>
+        <item>food#Cabbage.#Repolho.#HERE</item>
+        <item>food#Carrot.#Cenoura.#HERE</item>
+        <item>food#Cauliflower.#Couve flor.#HERE</item>
+        <item>food#Celery.#Aipo.#HERE</item>
+        <item>food#Chard.#Acelga.#HERE</item>
+        <item>food#Chick peas.#Grão de bico.#HERE</item>
+        <item>food#Chilli.#Pimenta.#HERE</item>
+        <item>food#Cucumber.#Pepino.#HERE</item>
+        <item>food#Eggplant.#Berinjela.#HERE</item>
+        <item>food#Fennel.#Erva doce.#HERE</item>
+        <item>food#Garlic.#Alho.#HERE</item>
+        <item>food#Green onion.#Cebolinha verde.#HERE</item>
+        <item>food#Leek.#Alho-porro.#HERE</item>
+        <item>food#Lentils.#Lentilhas.#HERE</item>
+        <item>food#Lettuce.#Alface.#HERE</item>
+        <item>food#Mushrooms.#Cogumelo.#HERE</item>
+        <item>food#Onion.#Cebola.#HERE</item>
+        <item>food#Parsley.#Salsinha.#HERE</item>
+        <item>food#Peas.#Ervilhas.#HERE</item>
+        <item>food#Pepper.#Pimenta.#HERE</item>
+        <item>food#Potato.#Batata.#HERE</item>
+        <item>food#Pumpkin.#Abóbora, cabaça.#HERE</item>
+        <item>food#Spinach.#Espinafre.#HERE</item>
+        <item>food#Squash.#Abóbora, zapallo.#HERE</item>
+        <item>food#String beans.#Vagem.#HERE</item>
+        <item>food#Sweet corn.#Milho.#HERE</item>
+        <item>food#Sweet potato.#Batata doce.#HERE</item>
+        <item>food#Tomato.#Tomate.#HERE</item>
+        <item>food#Turnip.#Nabo.#HERE</item>
+        <item>food#Watercress.#Agrião.#HERE</item>
+        <item>food#Zucchini.#Abobrinha.#HERE</item>
+        <item>hobbies#billiards.#Bilhar.#HERE</item>
+        <item>hobbies#Bowling.#Boliche.#HERE</item>
+        <item>hobbies#Brainteasers.#Adivinhação.#HERE</item>
+        <item>hobbies#Camping.#Acampamento.#HERE</item>
+        <item>hobbies#Canoeing.#Canoagem.#HERE</item>
+        <item>hobbies#Card games.#Jogo de baralho.#HERE</item>
+        <item>hobbies#Carpentry.#Carpintaria.#HERE</item>
+        <item>hobbies#Checkers.#Damas.#HERE</item>
+        <item>hobbies#Chess.#Xadrez.#HERE</item>
+        <item>hobbies#Computing.#Informática.#HERE</item>
+        <item>hobbies#Cooking.#Cozinha.#HERE</item>
+        <item>hobbies#Crossword puzzle.#Jogo de palavras cruzadas.#HERE</item>
+        <item>hobbies#Cycling.#Ciclismo.#HERE</item>
+        <item>hobbies#Dancing.#Dança.#HERE</item>
+        <item>hobbies#Darts.#Jogo de dardos.#HERE</item>
+        <item>hobbies#Dice.#Dados.#HERE</item>
+        <item>hobbies#Dominoes.#Dominó.#HERE</item>
+        <item>hobbies#Drawing.#Desenho.#HERE</item>
+        <item>hobbies#Embroidery.#Bordado.#HERE</item>
+        <item>hobbies#Engraving.#Gravação.#HERE</item>
+        <item>hobbies#Fishing.#Pesca.#HERE</item>
+        <item>hobbies#Gambling.#Jogos de azar.#HERE</item>
+        <item>hobbies#Gardening.#Jardinagem.#HERE</item>
+        <item>hobbies#Hang-gliding.#Asa delta.#HERE</item>
+        <item>hobbies#Hiking.#Caminhada.#HERE</item>
+        <item>hobbies#Horseback riding.#Equitação.#HERE</item>
+        <item>hobbies#Hunting.#Caça.#HERE</item>
+        <item>hobbies#Jigsaw puzzle.#Quebra-cabeças.#HERE</item>
+        <item>hobbies#Jogging.#Corrida.#HERE</item>
+        <item>hobbies#Knitting.#Tricô.#HERE</item>
+        <item>hobbies#Marbles.#Bolinhas de gude.#HERE</item>
+        <item>hobbies#Mountaineering.#Alpinismo.#HERE</item>
+        <item>hobbies#Painting.#Pintura.#HERE</item>
+        <item>hobbies#Parachuting.#Pára-quedismo.#HERE</item>
+        <item>hobbies#Photography.#Fotografía.#HERE</item>
+        <item>hobbies#Pool.#Sinuca.#HERE</item>
+        <item>hobbies#Pot-holing.#Caldeirão.#HERE</item>
+        <item>hobbies#Pottery.#Cerâmica.#HERE</item>
+        <item>hobbies#Reading.#Leitura.#HERE</item>
+        <item>hobbies#Riddles.#Adivinhação.#HERE</item>
+        <item>hobbies#Sculpting.#Escultura.#HERE</item>
+        <item>hobbies#Sewing.#Costura.#HERE</item>
+        <item>hobbies#Singing.#Canto.#HERE</item>
+        <item>hobbies#Skating.#Patinação.#HERE</item>
+        <item>hobbies#Skiing.#Esqui.#HERE</item>
+        <item>hobbies#Stamp collecting.#Coleção de selos.#HERE</item>
+        <item>hobbies#Surfing.#Surfe.#HERE</item>
+        <item>hobbies#Video games.#Video games.#HERE</item>
+        <item>hobbies#Yoga.#Ioga.#HERE</item>
+        <item>beach#bathers.#Banhistas.#HERE</item>
+        <item>beach#Bay.#Baía.#HERE</item>
+        <item>beach#Beach ball.#Bola de praia.#HERE</item>
+        <item>beach#Binoculars.#Binóculos.#HERE</item>
+        <item>beach#Breaker.#Onda grande.#HERE</item>
+        <item>beach#Breeze.#Brisa.#HERE</item>
+        <item>beach#Clam.#Molusco.#HERE</item>
+        <item>beach#Cliff.#Rochedo.#HERE</item>
+        <item>beach#Coast.#Costa.#HERE</item>
+        <item>beach#Cooler.#Geleira.#HERE</item>
+        <item>beach#Coral.#Coral.#HERE</item>
+        <item>beach#Crab.#Caranguejo.#HERE</item>
+        <item>beach#Current.#Corrente.#HERE</item>
+        <item>beach#Dressing rooms.#Vestuários.#HERE</item>
+        <item>beach#Dune.#Duna.#HERE</item>
+        <item>beach#Folding chair.#Cadeira dobradiça.#HERE</item>
+        <item>beach#Goggles.#Óculos de natação.#HERE</item>
+        <item>beach#Horizon.#Horizonte.#HERE</item>
+        <item>beach#Island.#Ilha.#HERE</item>
+        <item>beach#Kite.#Papagaio.#HERE</item>
+        <item>beach#Life preserver.#Salva-vidas.#HERE</item>
+        <item>beach#Lifeguard.#Salva-vidas.#HERE</item>
+        <item>beach#Motorboat.#Lancha.#HERE</item>
+        <item>beach#Ocean.#Oceano.#HERE</item>
+        <item>beach#Pail.#Balde.#HERE</item>
+        <item>beach#Sailboat.#Veleiro.#HERE</item>
+        <item>beach#Sand.#Areia.#HERE</item>
+        <item>beach#Sandals.#Sandálias.#HERE</item>
+        <item>beach#Sandcastle.#Castelo de areia.#HERE</item>
+        <item>beach#Sea.#Mar.#HERE</item>
+        <item>beach#Seaweed.#Alga marinha.#HERE</item>
+        <item>beach#Shark.#Tubarão.#HERE</item>
+        <item>beach#Shell.#Concha.#HERE</item>
+        <item>beach#Shore.#Costa.#HERE</item>
+        <item>beach#Shovel.#Pá.#HERE</item>
+        <item>beach#Snail.#Caracol.#HERE</item>
+        <item>beach#Starfish.#Estrela do mar.#HERE</item>
+        <item>beach#Sunburn.#Queimadura de sol.#HERE</item>
+        <item>beach#Sunglasses.#Óculos de sol.#HERE</item>
+        <item>beach#Sunscreen.#Protetor solar.#HERE</item>
+        <item>beach#Suntan lotion.#Loção bronzeadora.#HERE</item>
+        <item>beach#Surfboard.#Taboa de surfe.#HERE</item>
+        <item>beach#Surfers.#Surfistas.#HERE</item>
+        <item>beach#Swimmer.#Nadador.#HERE</item>
+        <item>beach#Swimming pool.#Piscina.#HERE</item>
+        <item>beach#Swimming trunks.#Sunga.#HERE</item>
+        <item>beach#Swimsuit.#Traje de banho.#HERE</item>
+        <item>beach#Tide.#Maré.#HERE</item>
+        <item>beach#Towel.#Toalha.#HERE</item>
+        <item>beach#Umbrella.#Sombrinha.#HERE</item>
+        <item>beach#Wave.#Onda.#HERE</item>
+        <item>sports#aerobics.#Exercícios aeróbicos.#HERE</item>
+        <item>sports#Archery.#Arte de manobar arco e flecha.#HERE</item>
+        <item>sports#Athletics.#Atletismo.#HERE</item>
+        <item>sports#Badminton.#Jogo parecido com tênis jogado com peteca.#HERE</item>
+        <item>sports#Baseball.#Beisebol.#HERE</item>
+        <item>sports#Basketball.#Baquetebol.#HERE</item>
+        <item>sports#Bicycling.#Ciclismo.#HERE</item>
+        <item>sports#Billiards.#Bilhar.#HERE</item>
+        <item>sports#Bowling.#Boliche.#HERE</item>
+        <item>sports#Boxing.#Boxe.#HERE</item>
+        <item>sports#Canoeing.#Canoagem.#HERE</item>
+        <item>sports#Car racing.#Automobilismo.#HERE</item>
+        <item>sports#Diving.#Mergulho.#HERE</item>
+        <item>sports#Fencing.#Esgrima.#HERE</item>
+        <item>sports#Fishing.#Pesca.#HERE</item>
+        <item>sports#Football.#Futebol americano.#HERE</item>
+        <item>sports#Golf.#Golfe.#HERE</item>
+        <item>sports#Gymnastics.#Ginástica.#HERE</item>
+        <item>sports#Hang gliding.#Vôo livre (com asa delta)#HERE</item>
+        <item>sports#Hockey.#Hóquei.#HERE</item>
+        <item>sports#Horse racing.#Corrida de cavalos.#HERE</item>
+        <item>sports#Horse riding.#Equitação.#HERE</item>
+        <item>sports#Hunting.#Caça.#HERE</item>
+        <item>sports#Ice hockey.#Hóquei no gelo.#HERE</item>
+        <item>sports#Ice skating.#Patinação no gelo.#HERE</item>
+        <item>sports#Jogging.#Corrida.#HERE</item>
+        <item>sports#Karate.#Karatê.#HERE</item>
+        <item>sports#Martial arts.#Artes marciais.#HERE</item>
+        <item>sports#Motorboat racing.#Corrida de lanchas.#HERE</item>
+        <item>sports#Mountaineering.#Alpinismo.#HERE</item>
+        <item>sports#Parachuting.#Pára-quedas.#HERE</item>
+        <item>sports#Ping-pong.#Tênis de mesa.#HERE</item>
+        <item>sports#Polo.#Pólo.#HERE</item>
+        <item>sports#Pool.#Sinuca.#HERE</item>
+        <item>sports#Rowing.#Remo.#HERE</item>
+        <item>sports#Sailing.#Navegação.#HERE</item>
+        <item>sports#Skating.#Patinação.#HERE</item>
+        <item>sports#Skiing.#Ato de esquiar.#HERE</item>
+        <item>sports#Skydiving.#Saltar de pára quedas.#HERE</item>
+        <item>sports#Soccer.#Futebol.#HERE</item>
+        <item>sports#Surfing.#Surfe.#HERE</item>
+        <item>sports#Swimming.#Natação.#HERE</item>
+        <item>sports#Target shooting.#Tiro ao alvo.#HERE</item>
+        <item>sports#Tennis.#Tênis.#HERE</item>
+        <item>sports#Volleyball.#Voleibol.#HERE</item>
+        <item>sports#Water skiing.#Esqui aquático.#HERE</item>
+        <item>sports#Weight lifting.#Levantamento de peso.#HERE</item>
+        <item>sports#Windsurfing.#Surfe à  vela.#HERE</item>
+        <item>sports#Wrestling.#Luta livre.#HERE</item>
+        <item>music#accordion.#Sanfona.#HERE</item>
+        <item>music#Bagpipes.#Gaita.#HERE</item>
+        <item>music#Banjo.#Banjo.#HERE</item>
+        <item>music#Bass guitar.#Baixo.#HERE</item>
+        <item>music#Bassoon.#Fagote.#HERE</item>
+        <item>music#Baton.#Batuta.#HERE</item>
+        <item>music#Bongo.#Bongô.#HERE</item>
+        <item>music#Bugle.#Clarim.#HERE</item>
+        <item>music#Castanets.#Castanholas.#HERE</item>
+        <item>music#Cello.#Violoncelo.#HERE</item>
+        <item>music#Clarinet.#Clarinete.#HERE</item>
+        <item>music#Cymbals.#Pratos.#HERE</item>
+        <item>music#Double bass.#Contrabaixo.#HERE</item>
+        <item>music#Drum.#Tambor.#HERE</item>
+        <item>music#Drums.#Bateria.#HERE</item>
+        <item>music#Drumsticks.#Baquetas de tambor.#HERE</item>
+        <item>music#Fiddle.#Violino.#HERE</item>
+        <item>music#Flute.#Flauta.#HERE</item>
+        <item>music#French horn.#Trompa de pistões.#HERE</item>
+        <item>music#Gong.#Gongo.#HERE</item>
+        <item>music#Grand piano.#Piano de cauda.#HERE</item>
+        <item>music#Guitar.#Violão.#HERE</item>
+        <item>music#Harmonica.#Gaita de boca.#HERE</item>
+        <item>music#Harp.#Harpa.#HERE</item>
+        <item>music#Kettledrum.#Timbale.#HERE</item>
+        <item>music#Keyboard.#Teclado.#HERE</item>
+        <item>music#Keys.#Teclas.#HERE</item>
+        <item>music#Lute.#Alaúde.#HERE</item>
+        <item>music#Mandoline.#Bamdolim.#HERE</item>
+        <item>music#Maraca.#Maraca.#HERE</item>
+        <item>music#Oboe.#Oboé.#HERE</item>
+        <item>music#Organ.#Órgão.#HERE</item>
+        <item>music#Piano.#Piano.#HERE</item>
+        <item>music#Piccolo.#Flautim.#HERE</item>
+        <item>music#Saxophone.#Saxofone.#HERE</item>
+        <item>music#Snare drum.#Tambor de corda.#HERE</item>
+        <item>music#String.#Barbante.#HERE</item>
+        <item>music#Synthesizer.#Sintetizar.#HERE</item>
+        <item>music#Tambourine.#Pandeiro.#HERE</item>
+        <item>music#Trombone.#Trombone.#HERE</item>
+        <item>music#Trumpet.#Trombeta.#HERE</item>
+        <item>music#Tuba.#Tuba.#HERE</item>
+        <item>music#Violin.#Violino.#HERE</item>
+        <item>music#Xylophone.#Xilofone.#HERE</item>
+        <item>animals#Anteater.#Tamanduá.#HERE</item>
+        <item>animals#Antelope.#Antílope.#HERE</item>
+        <item>animals#Bat.#Morcego.#HERE</item>
+        <item>animals#Bear.#Urso.#HERE</item>
+        <item>animals#Beaver.#Castor.#HERE</item>
+        <item>animals#Boar.#Javali.#HERE</item>
+        <item>animals#Buffalo.#Búfalo.#HERE</item>
+        <item>animals#Bull.#Touro.#HERE</item>
+        <item>animals#Calf.#Bezerro.#HERE</item>
+        <item>animals#Camel.#Camelo.#HERE</item>
+        <item>animals#Cat.#Gato.#HERE</item>
+        <item>animals#Cheetah.#Chita.#HERE</item>
+        <item>animals#Chimpanzee.#Chipanzé.#HERE</item>
+        <item>animals#Cow.#Vaca.#HERE</item>
+        <item>animals#Deer.#Veado.#HERE</item>
+        <item>animals#Dog.#Cachorro.#HERE</item>
+        <item>animals#Donkey.#Burro.#HERE</item>
+        <item>animals#Dromedary.#Dromedário.#HERE</item>
+        <item>animals#Elephant.#Elefante.#HERE</item>
+        <item>animals#Elk.#Alce.#HERE</item>
+        <item>animals#Foal.#Potro.#HERE</item>
+        <item>animals#Fox.#Raposa.#HERE</item>
+        <item>animals#Gazelle.#Gazela.#HERE</item>
+        <item>animals#Giraffe.#Girafa.#HERE</item>
+        <item>animals#Goat.#Cabra.#HERE</item>
+        <item>animals#Gorilla.#Gorila.#HERE</item>
+        <item>animals#Hippopotamus.#Hipopótamo.#HERE</item>
+        <item>animals#Hog.#Porco.#HERE</item>
+        <item>animals#Horse.#Cavalo.#HERE</item>
+        <item>animals#Hyena.#Hiena.#HERE</item>
+        <item>animals#Kangaroo.#Canguru.#HERE</item>
+        <item>animals#Lamb.#Cordeiro.#HERE</item>
+        <item>animals#Leopard.#Leopardo.#HERE</item>
+        <item>animals#Lion.#Leão.#HERE</item>
+        <item>animals#Monkey.#Macaco.#HERE</item>
+        <item>animals#Moose.#Alce.#HERE</item>
+        <item>animals#Mouse.#Camundongo.#HERE</item>
+        <item>animals#Otter.#Lontra.#HERE</item>
+        <item>animals#Ox.#Boi.#HERE</item>
+        <item>animals#Pig.#Porco.#HERE</item>
+        <item>animals#Porcupine.#Porco espinho.#HERE</item>
+        <item>animals#Rabbit.#Coelho.#HERE</item>
+        <item>animals#Raccoon.#\'raccoon\'#HERE</item>
+        <item>animals#Rat.#Rato.#HERE</item>
+        <item>animals#Rhinoceros.#Rinoceronte.#HERE</item>
+        <item>animals#Seal.#Foca.#HERE</item>
+        <item>animals#Sheep.#Ovelha.#HERE</item>
+        <item>animals#Skunk.#Jaritataca.#HERE</item>
+        <item>animals#Squirrel.#Esquilo.#HERE</item>
+        <item>animals#Tiger.#Tigre.#HERE</item>
+        <item>animals#Wolf.#Lobo.#HERE</item>
+        <item>animals#Zebra.#Zebra.#HERE</item>
+        <item>animals#blackbird.#Melro.#HERE</item>
+        <item>animals#Canary.#Canário.#HERE</item>
+        <item>animals#Cardinal.#Cardeal.#HERE</item>
+        <item>animals#Chick.#Pintinho.#HERE</item>
+        <item>animals#Chicken.#Frango.#HERE</item>
+        <item>animals#Cock.#Galo.#HERE</item>
+        <item>animals#Cockatoo.#Cacatua.#HERE</item>
+        <item>animals#Condor.#Condor.#HERE</item>
+        <item>animals#Crane.#Grua.#HERE</item>
+        <item>animals#Crow.#Corvo.#HERE</item>
+        <item>animals#Duck.#Pato.#HERE</item>
+        <item>animals#Eagle.#Águia.#HERE</item>
+        <item>animals#Falcon.#Falcão.#HERE</item>
+        <item>animals#Feather.#Pluma.#HERE</item>
+        <item>animals#Flamingo.#Flamingo.#HERE</item>
+        <item>animals#Goldfinch.#Pintassilgo.#HERE</item>
+        <item>animals#Goose.#Ganso.#HERE</item>
+        <item>animals#Hawk.#Falcão.#HERE</item>
+        <item>animals#Hen.#Galinha.#HERE</item>
+        <item>animals#Heron.#Garça.#HERE</item>
+        <item>animals#Hummingbird.#Colibri.#HERE</item>
+        <item>animals#Lark.#Calhandra.#HERE</item>
+        <item>animals#Magpie.#Pega.#HERE</item>
+        <item>animals#Nest.#Ninho.#HERE</item>
+        <item>animals#Nightingale.#Rouxinol.#HERE</item>
+        <item>animals#Ostrich.#Avestruz.#HERE</item>
+        <item>animals#Owl.#Coruja.#HERE</item>
+        <item>animals#Parakeet.#Periquito.#HERE</item>
+        <item>animals#Parrot.#Louro.#HERE</item>
+        <item>animals#Partridge.#Perdiz.#HERE</item>
+        <item>animals#Peacock.#Pavão real.#HERE</item>
+        <item>animals#Pelican.#Pelicano.#HERE</item>
+        <item>animals#Penguin.#Pinguim.#HERE</item>
+        <item>animals#Pheasan.#Faisão.#HERE</item>
+        <item>animals#Pigeon.#Pomba.#HERE</item>
+        <item>animals#Quail.#Codorniz.#HERE</item>
+        <item>animals#Roadrunner.#Papa-léguas.#HERE</item>
+        <item>animals#Robin.#Tordo.#HERE</item>
+        <item>animals#Rooster.#Galo.#HERE</item>
+        <item>animals#Sea gull.#Gaviota.#HERE</item>
+        <item>animals#Sparrow.#Pardal.#HERE</item>
+        <item>animals#Stork.#Cegonha.#HERE</item>
+        <item>animals#Swallow.#Andorinha.#HERE</item>
+        <item>animals#Swan.#Cisne.#HERE</item>
+        <item>animals#Thrush.#Tordo.#HERE</item>
+        <item>animals#Turkey.#Pavão.#HERE</item>
+        <item>animals#Vulture.#Urubu.#HERE</item>
+        <item>animals#Woodpecker.#Pássaro carpinteiro.#HERE</item>
+        <item>animals#Alligator.#Jacaré.#HERE</item>
+        <item>animals#Anchovy.#Anchova.#HERE</item>
+        <item>animals#Catfish.#Peixe-gato, lampreia.#HERE</item>
+        <item>animals#Cod.#Bacalhau.#HERE</item>
+        <item>animals#Crab.#Caranguejo.#HERE</item>
+        <item>animals#Crayfish.#Camarão de água doce.#HERE</item>
+        <item>animals#Crocodile.#Crocodilo.#HERE</item>
+        <item>animals#Dolphin.#Golfinho.#HERE</item>
+        <item>animals#Eel.#Enguia.#HERE</item>
+        <item>animals#Frog.#Rã.#HERE</item>
+        <item>animals#Herring.#Arenque.#HERE</item>
+        <item>animals#Jellyfish.#Medusa.#HERE</item>
+        <item>animals#Killerwhale.#Orca.#HERE</item>
+        <item>animals#Lobster.#Lagosta.#HERE</item>
+        <item>animals#Mackerel.#Cavala.#HERE</item>
+        <item>animals#Octopus.#Polvo.#HERE</item>
+        <item>animals#Oyster.#Ostra.#HERE</item>
+        <item>animals#Ray.#Raia.#HERE</item>
+        <item>animals#Salmon.#Salmão.#HERE</item>
+        <item>animals#Sardine.#Sardinha.#HERE</item>
+        <item>animals#Seahorse.#Cavalo marinho.#HERE</item>
+        <item>animals#Seal.#Foca.#HERE</item>
+        <item>animals#Shark.#Tubarão.#HERE</item>
+        <item>animals#Shell.#Concha.#HERE</item>
+        <item>animals#Shrimp.#Camarão.#HERE</item>
+        <item>animals#Slug.#Lesma.#HERE</item>
+        <item>animals#Snail.#Caracol.#HERE</item>
+        <item>animals#Sole.#Linguado.#HERE</item>
+        <item>animals#Squid.#Lula.#HERE</item>
+        <item>animals#Starfish.#Estrela do mar.#HERE</item>
+        <item>animals#Swordfish.#Peixe espada.#HERE</item>
+        <item>animals#Toad.#Sapo.#HERE</item>
+        <item>animals#Trout.#Truta.#HERE</item>
+        <item>animals#Tuna.#Atum.#HERE</item>
+        <item>animals#Turtle.#Tartaruga.#HERE</item>
+        <item>animals#Walrus.#Morsa.#HERE</item>
+        <item>animals#Whale.#Baleia.#HERE</item>
+        <item>animals#Ant.#Formiga.#HERE</item>
+        <item>animals#Bedbug.#Percevejo.#HERE</item>
+        <item>animals#Bee.#Abelha.#HERE</item>
+        <item>animals#Beetle.#Besouro.#HERE</item>
+        <item>animals#Butterfly.#Borboleta.#HERE</item>
+        <item>animals#Caterpillar.#Lagarta.#HERE</item>
+        <item>animals#Centipede.#Centopéia.#HERE</item>
+        <item>animals#Chameleon.#Camaleão.#HERE</item>
+        <item>animals#Cicada.#Cigarra.#HERE</item>
+        <item>animals#Cricket.#Grilo.#HERE</item>
+        <item>animals#Crocodile.#Crocodilo.#HERE</item>
+        <item>animals#Dragonfly.#Libélula.#HERE</item>
+        <item>animals#Earthworm.#Minhoca.#HERE</item>
+        <item>animals#Eel.#Enguia.#HERE</item>
+        <item>animals#Firefly.#Pirilampo.#HERE</item>
+        <item>animals#Flea.#Pulga.#HERE</item>
+        <item>animals#Fly.#Mosca.#HERE</item>
+        <item>animals#Frog.#Rã.#HERE</item>
+        <item>animals#Grasshopper.#Gafanhoto.#HERE</item>
+        <item>animals#Horsefly.#Mutuca.#HERE</item>
+        <item>animals#Iguana.#Iguana.#HERE</item>
+        <item>animals#Ladybird.#Joaninha.#HERE</item>
+        <item>animals#Ladybug.#Joaninha.#HERE</item>
+        <item>animals#Leech.#Sanguessuga.#HERE</item>
+        <item>animals#Lice.#Piolho.#HERE</item>
+        <item>animals#Lizard.#Lagartixa.#HERE</item>
+        <item>animals#Locust.#Gafanhoto.#HERE</item>
+        <item>animals#Louse.#Piolho.#HERE</item>
+        <item>animals#Mantis.#Louva-a-deus.#HERE</item>
+        <item>animals#Mosquito.#Mosquito.#HERE</item>
+        <item>animals#Moth.#Traça.#HERE</item>
+        <item>animals#Rattlesnake.#Cascavel.#HERE</item>
+        <item>animals#Roach.#Barata.#HERE</item>
+        <item>animals#Salamander.#Salamandra.#HERE</item>
+        <item>animals#Scorpion.#Escorpião.#HERE</item>
+        <item>animals#Snake.#Cobra.#HERE</item>
+        <item>animals#Spider.#Aranha.#HERE</item>
+        <item>animals#Tarantula.#Tarântula.#HERE</item>
+        <item>animals#Termite.#Térmite.#HERE</item>
+        <item>animals#Tick.#Carrapato.#HERE</item>
+        <item>animals#Toad.#Sapo.#HERE</item>
+        <item>animals#Tortoise.#Tartaruga.#HERE</item>
+        <item>animals#Turtle.#Tartaruga.#HERE</item>
+        <item>animals#Viper.#Víbora.#HERE</item>
+        <item>animals#Wasp.#Vespa.#HERE</item>
+        <item>animals#Worm.#Lombriga.#HERE</item>
+        <item>animals#Worm.#Gusano.#HERE</item>
+    </string-array>
+
+</resources>

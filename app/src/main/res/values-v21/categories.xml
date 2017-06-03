@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="categories">
+        <item>basics#Basics#Basic words and phrases.</item>
+        <item>airport#Airport#Departuring, arriving.</item>
+        <item>car#Car#Model, prive, options.</item>
+        <item>directions#Directions#How to go to...</item>
+        <item>hotel#Hotel#Daily rate, services.</item>
+        <item>shopping#Shopping#Stores, preferences.</item>
+        <item>restaurant#Restaurant#Ordering food.</item>
+        <item>places#Places#Squares, museums.</item>
+        <item>verbs#Verbs#Verbal tenses.</item>
+        <item>body#Body#Body parts.</item>
+        <item>safety#Safety#Police, emergency.</item>
+        <item>health#Health#Hospital, doctor.</item>
+        <item>kitchen#Kitchen#Kitchen.</item>
+        <item>food#Food#Fruits, dishes.</item>
+        <item>hobbies#Hobbies#Activities.</item>
+        <item>bathroom#Restroom#Bathroom.</item>
+        <item>beach#Beach#Sealife, ocean.</item>
+        <item>sports#Sports#Sports in general.</item>
+        <item>music#Music#Musical instruments.</item>
+        <item>animals#Animals#Animal names.</item>
+    </string-array>
+
+</resources>

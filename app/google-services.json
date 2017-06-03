@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212990910553",
+    "firebase_url": "https://brazilian-portuguese.firebaseio.com",
+    "project_id": "brazilian-portuguese",
+    "storage_bucket": "brazilian-portuguese.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212990910553:android:b8253b5fbc6fb657",
+        "android_client_info": {
+          "package_name": "com.sow.brazilianportuguese.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212990910553-7mk9q8rkr7th0e0ooij0bjme87m236i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sow.brazilianportuguese.free",
+            "certificate_hash": "b4dcbe9b50c5ee42c02f744f36df17748a917391"
+          }
+        },
+        {
+          "client_id": "212990910553-3p90fuh96ovhb9fmobsktcfu5pk1ucuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFKMFqwmVIEpM7g8cMDiDPrz3O8o7Q_eM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212990910553-3p90fuh96ovhb9fmobsktcfu5pk1ucuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_pronunciation"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sow.brazilianportuguese.free.PronunciationActivity"
+    android:background="@color/white">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_pronunciation"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout_main_adView"
+        android:orientation="vertical"
+        android:layout_below="@+id/toolbar_pronunciation">
+
+        <!--
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+         -->
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linearLayout_main_adView"
+        android:padding="8dp"
+        android:id="@+id/relativeLayout_pronunciation">
+
+        <EditText
+            android:id="@+id/editText_pronunciation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Type a word"
+            android:maxLines="1"/>
+
+        <ImageButton
+            android:id="@+id/button_pronunciation_speak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/editText_pronunciation"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/ic_play" />
+
+        <ImageButton
+            android:id="@+id/button_pronunciation_stop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_pronunciation_speak"
+            android:layout_marginTop="32dp"
+            android:src="@drawable/ic_stop"
+            android:visibility="gone" />
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout_pronunciation_speak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        android:visibility="gone"
+        android:layout_below="@id/relativeLayout_pronunciation">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/speaker" />
+
+
+        <TextView
+            android:id="@+id/textView_pronunciation_speak_eng"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:text="Word in Portuguese"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
